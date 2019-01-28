@@ -10,36 +10,41 @@ role = "Product Owner"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "BestValue", url = "https://bestvalue.eu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Software Product Owner - PHP and Symfony enthusiast"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "gabriel.udr@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "agile product development",
+  "Information Retrieval",
+  "Agile product development",
+  "PHP and Symfony enthusiast",
+  "Behavior Driven Development",
+  "Business process mapping and automation",
+  "REST APIs",
+  "eCommerce and Affiliate marketing",
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Ensight Management Consulting Training"
+  institution = "Internal Training"
+  year = 2015
+
+[[education.courses]]
+  course = "PHP Basics, PHP OOP, Laravel Basics, Git Basics, jQuery Basics, Javascript Foundation, CSS 3"
+  institution = "TreeHouse"
+  year = 2014
+
+[[education.courses]]
+  course = "Online Advertising Course"
+  institution = "Marketeer.ro"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 #
@@ -67,17 +72,12 @@ interests = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://twitter.com/gabiudrescu"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/gabiudrescu"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +88,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, My name is Gabi Udrescu. to be completed.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
