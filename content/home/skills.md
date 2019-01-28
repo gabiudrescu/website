@@ -22,15 +22,15 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "php"
+  icon_pack = "fas"
+  name = "PHP"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "lightbulb"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Symfony"
   description = "100%"  
   
 [[feature]]
