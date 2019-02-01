@@ -87,7 +87,14 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
+Hi, My name is Gabi Udrescu. Welcome to my personal website.
 
-Hi, My name is Gabi Udrescu. to be completed.
+On my day to day job I'm the product owner in charge of developing the eCommerce platform for the duty free business in Romania at BestValue.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+During the night, when I don't sleep, I like to get my hands dirty with PHP and Symfony. 
+
+Once a month, I am co-organizing the Bucharest Symfony Meetup. 
+
+Now and then, I like to bike around the city, swim, read or binge on Netflix. A few years ago I took the decision to start investing in travelling. Best money spent so far with the greatest ROI. 
+
+I like to consider myself an analytical person, though I have a guilty pleasure of enjoying the chaos around me. 
