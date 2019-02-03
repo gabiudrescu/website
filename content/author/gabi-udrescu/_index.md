@@ -79,6 +79,17 @@ interests = [
   icon_pack = "fab"
   link = "https://github.com/gabiudrescu"
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/udrescugabriel/"
+
+[[social]]
+  icon = "facebook"
+  icon_pack = "fab"
+  link = "https://www.facebook.com/udrescu.gabriel"
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]

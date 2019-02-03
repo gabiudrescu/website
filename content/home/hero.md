@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fab fa-creative-commons-by"></i> Find out more'
 +++
 
-Software & eCommerce in Bucharest, Romania, part-time traveller. Bike, swim and snorkel during the summer, ski and board games during the winter.
+Software & eCommerce in Bucharest, Romania, part-time traveller. Bike, swim and snorkelling during the summer, ski and board games during the winter.
 <!-- <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release < !-- V -- >
