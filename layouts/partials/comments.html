@@ -1,0 +1,6 @@
+<section id="comments">
+	{{ if and .Site.DisqusShortname (not (or .Site.Params.disable_comments .Params.disable_comments)) }}
+	  {{ template "_internal/disqus.html" . }}
+	{{ end }}
+	<div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="50"></div>
+</section>
