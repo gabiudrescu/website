@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gabi Udrescu"]
 
-summary = "First blog post with Hugo"
+summary = "First real blog post with Hugo"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -100,7 +100,7 @@ But ended up using Sublime (at least for now).
 - check everything locally it works well
 - git commit & git push
 
-and in 30 seconds it's done. I have posted a new blog post or a modification to my website. 
+and in 30 seconds it's done. I have posted a new blog post or a modification to my website. This strategy is called [JAMStack](https://jamstack.org/). You can read more about how it works for a big site like SmashingMagazine [here](https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/).
 
 ## **Drawbacks**
 

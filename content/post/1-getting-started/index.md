@@ -9,8 +9,6 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gabi Udrescu"]
 
-summary = "First blog post with Hugo"
-
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -76,6 +74,7 @@ caption = "Cupcake"
 +++
 
 well, hello there! first blog post with Hugo, much excitement!
+<!--more-->
 
 <!-- **Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
 
