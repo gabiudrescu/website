@@ -16,21 +16,20 @@ So, let's give it a spin:
 
 **Bold text**
 *Italic text*
-Smallest
-Smaller
-Small
-Medium
-Large
-Larger
-Largest
-Strikethrough
+## Big
+# Bigger
+~~Strikethrough~~
 
-Bullet 1
-Bullet 2
-Bullet 3
+ - Bullet 1
+ - Bullet 2
+ - Bullet 3
 
+ceva
+
+ 1. List item
 Numbered 1
 Numbered 2
+
 Numbered 3
 
 La asta m-am gândit azi, când am ajuns acasă de la birou după un drum de doar 18 minute. Acum un an, pe vremea asta, făceam în medie, cam 40 de minute pe sens. Ce s-a schimbat între timp? A fost deschisă bucata de autostradă dintre Șoseaua de Centură București și <!--more-->cartierul Colentina. 
@@ -70,5 +69,5 @@ Măcar dacă o facem, să o facem conștienți de consecințe și împăcați c�
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc1MTMyMDhdfQ==
+eyJoaXN0b3J5IjpbNTkxMTE2NTQ4XX0=
 -->
