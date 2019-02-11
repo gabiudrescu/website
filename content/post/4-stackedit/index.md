@@ -10,7 +10,29 @@ authors = ["Gabi Udrescu"]
 tags = []
 +++
 
-I just found out that [StackEdit](https://stackedit.io) has this feature that helps you write markdown in a S
+I just found out that [StackEdit](https://stackedit.io) has this feature that helps you write markdown in a WYSIWYG mode and allows you to commit files directly to GitHub. 
+
+So, let's give it a spin:
+
+**Bold text**
+*Italic text*
+Smallest
+Smaller
+Small
+Medium
+Large
+Larger
+Largest
+Strikethrough
+
+Bullet 1
+Bullet 2
+Bullet 3
+
+Numbered 1
+Numbered 2
+Numbered 3
+
 La asta m-am gândit azi, când am ajuns acasă de la birou după un drum de doar 18 minute. Acum un an, pe vremea asta, făceam în medie, cam 40 de minute pe sens. Ce s-a schimbat între timp? A fost deschisă bucata de autostradă dintre Șoseaua de Centură București și <!--more-->cartierul Colentina. 
 
 Și mi-am dat seama că se poate și mai bine. Că nu e ok să te mulțumești cu puțin și că dacă îți lărgești puțin orizonturile, s-ar putea să-ți dai seama că normalitatea ta nu prea coincide cu epoca în care trăiești și că s-ar putea să depui mai mult efort decât trebuie pentru mai puțin decât poți obține, în realitate.
@@ -48,5 +70,5 @@ Măcar dacă o facem, să o facem conștienți de consecințe și împăcați c�
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjcwNTk5ODVdfQ==
+eyJoaXN0b3J5IjpbLTEzNTc1MTMyMDhdfQ==
 -->
