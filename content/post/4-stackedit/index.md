@@ -104,7 +104,7 @@ Code:
 
 Table:
 |Key|Value|
-|--|--|
+|---|---|
 |foo|bar|
 |bar|foo|
 |1|2|
@@ -120,6 +120,6 @@ Table:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTE5NDE0MywtMjExNzQxMzA1OCwxOT
-c2MjMxNDMzXX0=
+eyJoaXN0b3J5IjpbNjM1ODYwOTI5LDIwMzExOTQxNDMsLTIxMT
+c0MTMwNTgsMTk3NjIzMTQzM119
 -->
