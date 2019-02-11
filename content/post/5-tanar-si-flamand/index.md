@@ -14,6 +14,7 @@ tags = ['ro']
 # Tânăr și flămând
 
 Prima dată am auzit expresia asta la un interviu, în 2010, când am aflat că toți candidații pentru jobul respectiv trebuiau să fie din categoria „young and hungry”. Angajatorul respectiv dorea oameni mai puțin experimentați în tradiția acelei industrii, pe care să-i modeleze în spiritul afacerii pe care încerca s-o creeze.
+<!-- more -->
 
 Ideea bună, de altfel, ca orice altă idee în aflată în stadiul de idee. În practică, lucrurile s-au dovedit însă a nu fi chiar ca în filme.
 
@@ -49,5 +50,5 @@ Ori cred că lucrurile astea vin, de fapt... cu vârsta.
 
 Acum, vă rog să mă scuzați, eu sunt la câteva zile distanță de a mai adăuga un an în plus la vârstă și m-au apucat puțin cugetările :smile:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk4NDU4M119
+eyJoaXN0b3J5IjpbLTIzODgwNjU2NV19
 -->
