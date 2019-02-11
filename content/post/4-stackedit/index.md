@@ -44,6 +44,62 @@ Checklist
 
 Code:
 
+    <?php
+
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Bundle\WebServerBundle;
+
+use Symfony\Component\Process\Exception\RuntimeException;
+use Symfony\Component\Process\PhpExecutableFinder;
+use Symfony\Component\Process\Process;
+
+/**
+ * Manages a local HTTP web server.
+ *
+ * @author Fabien Potencier <fabien@symfony.com>
+ */
+class WebServer
+{
+    const STARTED = 0;
+    const STOPPED = 1;
+
+    public function run(WebServerConfig $config, $disableOutput = true, callable $callback = null)
+    {
+        if ($this->isRunning()) {
+            throw new \RuntimeException(sprintf('A process is already listening on http://%s.', $config->getAddress()));
+        }
+
+        $process = $this->createServerProcess($config);
+        if ($disableOutput) {
+            $process->disableOutput();
+            $callback = null;
+        } else {
+            try {
+                $process->setTty(true);
+                $callback = null;
+            } catch (RuntimeException $e) {
+            }
+        }
+
+        $process->run($callback);
+
+        if (!$process->isSuccessful()) {
+            $error = 'Server terminated unexpectedly.';
+            if ($process->isOutputDisabled()) {
+                $error .= ' Run the command again with -v option for more details.';
+            }
+
+            throw new \RuntimeException($error);
+        }
+      }
 
 La asta m-am gândit azi, când am ajuns acasă de la birou după un drum de doar 18 minute. Acum un an, pe vremea asta, făceam în medie, cam 40 de minute pe sens. Ce s-a schimbat între timp? A fost deschisă bucata de autostradă dintre Șoseaua de Centură București și <!--more-->cartierul Colentina. 
 
@@ -82,5 +138,5 @@ Măcar dacă o facem, să o facem conștienți de consecințe și împăcați c�
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjIzMTQzM119
+eyJoaXN0b3J5IjpbLTk5NzIxNjA5MSwxOTc2MjMxNDMzXX0=
 -->
