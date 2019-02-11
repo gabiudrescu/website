@@ -35,7 +35,16 @@ Checklist
  - [x] (Checked) task 3
 
 
-lorem ipsum
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec
+> nunc ullamcorper, auctor elit sit amet, porta lacus. Nam sit amet
+> mauris mauris. Morbi a eros lorem. Morbi sollicitudin tempor leo, eget
+> interdum risus. Proin arcu orci, imperdiet ac lorem ac, posuere
+> pharetra est. Mauris et faucibus sapien. Pellentesque vel volutpat
+> augue. Vestibulum ultrices scelerisque nisl mollis ultricies.
+
+Code:
+
+
 La asta m-am gândit azi, când am ajuns acasă de la birou după un drum de doar 18 minute. Acum un an, pe vremea asta, făceam în medie, cam 40 de minute pe sens. Ce s-a schimbat între timp? A fost deschisă bucata de autostradă dintre Șoseaua de Centură București și <!--more-->cartierul Colentina. 
 
 Și mi-am dat seama că se poate și mai bine. Că nu e ok să te mulțumești cu puțin și că dacă îți lărgești puțin orizonturile, s-ar putea să-ți dai seama că normalitatea ta nu prea coincide cu epoca în care trăiești și că s-ar putea să depui mai mult efort decât trebuie pentru mai puțin decât poți obține, în realitate.
@@ -73,5 +82,5 @@ Măcar dacă o facem, să o facem conștienți de consecințe și împăcați c�
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0ODA4MDk4XX0=
+eyJoaXN0b3J5IjpbMTk3NjIzMTQzM119
 -->
