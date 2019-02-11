@@ -109,9 +109,9 @@ Table:
 |bar|foo|
 |1|2|
 
-
+![Predeal - I shot this awesome view](https://lh3.googleusercontent.com/DBA13JzpgFRsg6qdYv6z5oqnhHrSHIBWTZdYM7JduDHzPG4nOBuk9sx1NiaELx9xVW6lngskFD_D "Predeal - shot by me")
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MTA5NDYxLDE5NzYyMzE0MzNdfQ==
+eyJoaXN0b3J5IjpbLTIxMTc0MTMwNTgsMTk3NjIzMTQzM119
 -->
