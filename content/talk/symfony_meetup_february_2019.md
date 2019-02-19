@@ -35,8 +35,24 @@ math = false
 
 +++
 
-Monthly meetup. see you there! details to be disclosed soon.
+Most of the software we build has a persistence layer where we store the information we handle.  
+  
+Either we're talking about a traditional, relational database, or a more modern non-relational, Doctrine is a great fit for our Symfony Apps, making it easier and familiar for us to "talk" to the database through an Object Oriented API.  
+  
+Ciprian Popescu, Tech Lead @ DreamLabs, will have a "Doctrine Masterclass", a crash course with lots of practical examples on „advanced query building, filtering and inheritance mappings”.  
+  
+We thank Zitec for sponsoring this meetup and we're very glad to work together, again. We all look forward to see your new offices, that we heard much about them: [https://offices.zitec.com/](https://offices.zitec.com/ "https://offices.zitec.com/")  
+  
+Meetup schedule:  
 
+ - 18:45 - 19:00 - Meet & Greet
+ - 19:00 - 19:45 - „*Doctrine Masterclass - Part 1*” - Ciprian Popescu
+ - 19:45 - 19:55 - (technical) break;
+ - 19:55 - 20:25 - „Doctrine Masterclass - Part 2 & QA” - Ciprian Popescu
+ - 20:25 - 21:00 - Socializing - Snacks & drinks by Zitec
+
+  
+See you on Thursday, 21st! Please RSVP on Meetup.com so we can organize better.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDMxNDkwMl19
+eyJoaXN0b3J5IjpbODEzOTc1MTgxLDEwNjAzMTQ5MDJdfQ==
 -->
