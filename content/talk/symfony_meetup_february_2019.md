@@ -2,39 +2,21 @@
 title = "Symfony Meetup Feb '19"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2019-02-21T19:00:00
 time_end = 2019-02-21T21:00:00
 all_day = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gabi Udrescu", "Cristi Conțiu"]
 
-# Abstract and optional shortened version.
 abstract = ""
 
-# Name of event and optional event URL.
 event = "Meetup.com"
-event_url = "https://meetup.com"
+event_url = "https://www.meetup.com/Symfony-Bucharest/events/258814703/"
 
-# Location of event.
 location = "Bucharest, Romania"
-
-# Is this a featured talk? (true/false)
 featured = true
 
-# Projects (optional).
-#   Associate this talk with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects = ["internal-project"]
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Slides (optional).
@@ -79,3 +61,6 @@ Slides can be added in a few ways:
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
  -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzA5MDQyMTE3XX0=
+-->
