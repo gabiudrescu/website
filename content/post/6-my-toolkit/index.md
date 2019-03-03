@@ -10,11 +10,11 @@ authors = ["Gabi Udrescu"]
 tags = ['en', 'software']
 +++
 
-We rarely have the chance of starting a new project as often as we would like. Most of the time, we have to handle existing projects and we need to adapt our expectations and internal processes in order to build or improve something.
+As product owners, we rarely have the chance of starting a new project. Most of the time, we have to handle existing projects and we need to adapt our expectations and internal processes in order to build or improve something.
 
 At least that's how it is in my business area. 
 
-That's why whenever I have the chance, as a product owner, to get on board of a greenfield project, I get over-excited and try to implement as many good practices I can, so at a later point, I can benefit from those early efforts.
+That's why whenever I have the chance to get on board of a greenfield project, I get over-excited and try to implement as many good practices I can, so at a later point, I can benefit from those early efforts.
 
 And that's how I realized how often we overlook the work on templatization of various stuff we use on a day to day activity.
 
@@ -25,6 +25,8 @@ As a part-time, amateur programmer, I always stay a few hours to setup the envir
 IDE, programming language runtime, database, server, yada-yada... 
 
 Everything takes time and by the time I got everything up and running, I lose my interest and decide to do something else.
+
+I'll skip the technical details, 
 
 # Business stuff
 Usually, whenever I change the business context it's when either I'm switching between jobs or I'm helping someone else than my current employer, as a freelance project. 
@@ -75,5 +77,5 @@ Who knows what will this spur into in the next 6-12 months.
 
 Stay tuned and subscribe to get the latest blogposts using the footer form below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNjU4MTI0XX0=
+eyJoaXN0b3J5IjpbLTEzMjg0NzQ5NSwzMzA2NTgxMjRdfQ==
 -->
