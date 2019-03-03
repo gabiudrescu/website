@@ -45,7 +45,15 @@ That's why it was easier at the previous job / project, because it was there. Af
 
 Built a framework sometimes means made a query and saved the results in an Excel file, on a shared drive that everyone is using to measure how well the KPI is evolving. 
 
-Or something more advanced, like putting together and entire Business Intelligence stack, connected to various data sources, crunching numbers and delivering insights to business peers 
+Or something more advanced, like putting together and entire Business Intelligence stack, connected to various data sources, crunching numbers and delivering insights to business peers with little to no effort.
+
+# Fresh start
+
+But this is not the case whenever you have the awesome opportunity to start fresh. Most of the times, you have a blank page and you feel like you're naked and panic starts to kick in.
+
+That's why I think it's important to spend some time, everytime you're doing something and question yourself: how is this going to help me in my next endeavour?
+
+How am I going to replicat 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzUwOTI1OF19
+eyJoaXN0b3J5IjpbMTEyMDk3OTUwNl19
 -->
