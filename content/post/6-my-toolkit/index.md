@@ -26,10 +26,10 @@ IDE, programming language runtime, database, server, yada-yada...
 
 Everything takes time and by the time I got everything up and running, I lose my interest and decide to do something else.
 
-I'll skip the technical details, 
+I'll skip the technical details as I have received feedback this blog should not be only about technical stuff.
 
 # Business stuff
-Usually, whenever I change the business context it's when either I'm switching between jobs or I'm helping someone else than my current employer, as a freelance project. 
+Whenever I change the business context it's when either I'm switching between two jobs or I'm helping someone else than my current employer, as a freelance project. 
 
 And then I have to go again through all the setup of everything:
 
@@ -45,7 +45,7 @@ This, again, takes time and it is prone to error because you don't really rememb
 
 That's why it was easier at the previous job / project, because it was there. After a period of time, someone, you or maybe a colleague of yours, might have ran into the need of having some figures on how good a feature was and built a framework for reporting.
 
-Built a framework sometimes means made a query and saved the results in an Excel file, on a shared drive that everyone is using to measure how well the KPI is evolving. 
+Building a framework sometimes means make a query and save the results in an Excel file, on a shared drive that everyone is using to measure how well the KPI is evolving. 
 
 Or something more advanced, like putting together and entire Business Intelligence stack, connected to various data sources, crunching numbers and delivering insights to business peers with little to no effort.
 
@@ -77,5 +77,5 @@ Who knows what will this spur into in the next 6-12 months.
 
 Stay tuned and subscribe to get the latest blogposts using the footer form below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg0NzQ5NSwzMzA2NTgxMjRdfQ==
+eyJoaXN0b3J5IjpbLTI3ODQ3NDkzOSwzMzA2NTgxMjRdfQ==
 -->
