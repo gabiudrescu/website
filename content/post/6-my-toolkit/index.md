@@ -27,7 +27,19 @@ IDE, programming language runtime, database, server, yada-yada...
 Everything takes time and by the time I got everything up and running, I lose my interest and decide to do something else.
 
 # Business stuff
-Usually, whenever I change the business context it's when either I'm switching between jobs or I'm helping someone else than my current, as a fre
+Usually, whenever I change the business context it's when either I'm switching between jobs or I'm helping someone else than my current employer, as a freelance project. 
+
+And then I have to go again through all the setup of everything:
+
+ - emails
+ - domain
+ - hosting
+ - business discovery
+ - team formation
+ - process analysis
+ - choosing the right tools for the right job
+
+This, again, takes time and it is prone to error because you don't really remember everything by heart, upfront. Most probably, you'll remember 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDQ0NTAyMV19
+eyJoaXN0b3J5IjpbMTIzOTIzODAyOV19
 -->
