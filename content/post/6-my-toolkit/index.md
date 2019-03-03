@@ -67,7 +67,7 @@ eCommerce platforms, plugins, reporting tools, CRMs, customer care software, ema
 
 Tools that are valuable in eCommerce company or in one that relies on software to do business. 
 
-And quite often, I am asked for recommendations. And recently that made me realize that sometimes, I need to answer to the same questions, multiple times, to different people.
+And quite often, I am asked for recommendations. That made me realize that sometimes, I need to answer to the same questions, multiple times, to different people.
 
 And I kept asking myself: why don't I templatize this in a list of tools I can recommend, based on my personal experience.
 
@@ -77,5 +77,5 @@ Who knows what will this spur into in the next 6-12 months.
 
 Stay tuned and subscribe to get the latest blogposts using the footer form below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY0NzM1NjYsMzMwNjU4MTI0XX0=
+eyJoaXN0b3J5IjpbLTMyODQzOTczNywzMzA2NTgxMjRdfQ==
 -->
