@@ -53,7 +53,13 @@ But this is not the case whenever you have the awesome opportunity to start fres
 
 That's why I think it's important to spend some time, everytime you're doing something and question yourself: how is this going to help me in my next endeavour?
 
-How am I going to replicat 
+How am I going to replicate what I'm doing here at other companies and what I can templatize so others can replicate  this success somewhere else?
+
+Be it another project or another company, one that I will employ me or not. 
+
+# Gabi's toolkit
+
+During the last 8-10 years, I've been working for various company's and projects and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDk3OTUwNl19
+eyJoaXN0b3J5IjpbMTQ0ODU0NjQ3MF19
 -->
