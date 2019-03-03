@@ -45,9 +45,9 @@ This, again, takes time and it is prone to error because you don't really rememb
 
 That's why it was easier at the previous job / project, because it was there. After a period of time, someone, you or maybe a colleague of yours, might have ran into the need of having some figures on how good a feature was and built a framework for reporting.
 
-Building a framework sometimes means make a query and save the results in an Excel file, on a shared drive that everyone is using to measure how well the KPI is evolving. 
+Building a framework sometimes means make a query and save the results in an Excel file, on a shared drive that everyone is using. This way it will be easier to everyone to measure how is that KPI evolving. 
 
-Or something more advanced, like putting together and entire Business Intelligence stack, connected to various data sources, crunching numbers and delivering insights to business peers with little to no effort.
+Or something more advanced, like putting together an entire Business Intelligence stack, connected to various data sources, crunching numbers and delivering insights to business peers with little to no effort.
 
 # Fresh start
 
@@ -77,5 +77,5 @@ Who knows what will this spur into in the next 6-12 months.
 
 Stay tuned and subscribe to get the latest blogposts using the footer form below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODQ3NDkzOSwzMzA2NTgxMjRdfQ==
+eyJoaXN0b3J5IjpbMzY2NTc1NDcxLDMzMDY1ODEyNF19
 -->
