@@ -41,7 +41,11 @@ And then I have to go again through all the setup of everything:
 
 This, again, takes time and it is prone to error because you don't really remember everything by heart, upfront. Most probably, you'll remember you haven't discussed anything with your new business partner about reporting when you're in the middle of a meeting, discussion about a new awesome feature and then it strikes you: we need to measure the success of this feature, but how do we do it?
 
-That's why it was easier at the previous job / project, because it was there. After a period of time, someone, you or maybe a colleague of yours, might have ran into the need of having some figures on ho
+That's why it was easier at the previous job / project, because it was there. After a period of time, someone, you or maybe a colleague of yours, might have ran into the need of having some figures on how good a feature was and built a framework for reporting.
+
+Built a framework sometimes means made a query and saved the results in an Excel file, on a shared drive that everyone is using to measure how well the KPI is evolving. 
+
+Or something more advanced, like putting together and entire Business Intelligence stack, connected to various data sources, crunching numbers and delivering insights to business peers 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDUzMzgzN119
+eyJoaXN0b3J5IjpbMTM5NzUwOTI1OF19
 -->
