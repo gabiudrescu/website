@@ -73,7 +73,7 @@ Well, now that I said it, I think I should also start working on it and create a
 
 Who knows what will this spur into in the next 6-12 months. 
 
-Stay tuned and subscribe to the footer below :-)
+Stay tuned and subscribe to get the latest blogposts using the footer form below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzUyODA2NF19
+eyJoaXN0b3J5IjpbMTAxNjM5MzExNV19
 -->
