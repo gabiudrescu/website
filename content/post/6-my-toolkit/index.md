@@ -59,7 +59,13 @@ Be it another project or another company, one that I will employ me or not.
 
 # Gabi's toolkit
 
-During the last 8-10 years, I've been working for various company's and projects and 
+During the last 8-10 years, I've been working for various companies and projects, being exposed to certain degrees of business software.
+
+eCommerce platforms, plugins, reporting tools, CRMs, customer care software, email marketing - you name it.
+
+Tools that in eCommerce or in a company that relies on software to do business are valuable. 
+
+And quite often, I am asked for recommendations. And recently that made me realize that sometimes, I need to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODU0NjQ3MF19
+eyJoaXN0b3J5IjpbOTA0MTk0MTUzXX0=
 -->
