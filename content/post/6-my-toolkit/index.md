@@ -71,7 +71,9 @@ And I kept asking myself: why don't I templatize this in a list of tools I can r
 
 Well, now that I said it, I think I should also start working on it and create a new section of this personal website with some product recommendations.
 
-Who knows what will this spurr into in the next 6-12 months. 
+Who knows what will this spur into in the next 6-12 months. 
+
+Stay tuned and subscribe to the footer below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTcxMDYxMF19
+eyJoaXN0b3J5IjpbLTQyNzUyODA2NF19
 -->
