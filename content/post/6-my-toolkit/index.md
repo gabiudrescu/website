@@ -65,7 +65,7 @@ During the last 8-10 years, I've been working for various companies and projects
 
 eCommerce platforms, plugins, reporting tools, CRMs, customer care software, email marketing - you name it.
 
-Tools that in eCommerce or in a company that relies on software to do business are valuable. 
+Tools that are valuable in eCommerce company or in one that relies on software to do business. 
 
 And quite often, I am asked for recommendations. And recently that made me realize that sometimes, I need to answer to the same questions, multiple times, to different people.
 
@@ -77,5 +77,5 @@ Who knows what will this spur into in the next 6-12 months.
 
 Stay tuned and subscribe to get the latest blogposts using the footer form below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NTc1NDcxLDMzMDY1ODEyNF19
+eyJoaXN0b3J5IjpbLTExNzY0NzM1NjYsMzMwNjU4MTI0XX0=
 -->
