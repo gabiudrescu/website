@@ -1,5 +1,5 @@
 +++
-title = "Modern toolkit"
+title = "My (software) toolkit"
 subtitle = ""
 
 date = 2019-03-03
@@ -75,5 +75,5 @@ Who knows what will this spur into in the next 6-12 months.
 
 Stay tuned and subscribe to get the latest blogposts using the footer form below :-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjM5MzExNV19
+eyJoaXN0b3J5IjpbMzMwNjU4MTI0XX0=
 -->
