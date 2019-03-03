@@ -22,7 +22,12 @@ And that's how I realized how often we overlook the work on templatization of va
 
 As a part-time, amateur programmer, I always stay a few hours to setup the environment required for my app to say "Hello, world". 
 
-IDE, programming language runtime, database, 
+IDE, programming language runtime, database, server, yada-yada... 
+
+Everything takes time and by the time I got everything up and running, I lose my interest and decide to do something else.
+
+# Business stuff
+Usually, whenever I change the business context it's when either I'm switching between jobs or I'm helping someone else than my current, as a fre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0ODQ5MTBdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDQ0NTAyMV19
 -->
