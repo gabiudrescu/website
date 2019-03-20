@@ -8,6 +8,9 @@ draft = false
 authors = ["Gabi Udrescu"]
 
 tags = ['ro']
+
+[image]
+  caption = "Image credit: [**Tenor**](https://lh3.googleusercontent.com/U91J-QmzVc8K1sw1Q1Gt5b8a7PquAzhPmCOiqeNvxWor0uDcCnQSsS6t6wuwrO0G8Jfm_f89EGY-))"
 +++
 
 Un coleg de la birou are o pasiune foarte interesantă: mașinile de epocă. Și investește în asta timp, bani și foarte multă energie.
@@ -18,5 +21,5 @@ Eh, azi am avut ocazia să merg cu o Dacia 1300 recondiționată. Pe un drum de 
 
 E frumos să vezi că
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDIwMTUwNCwxODQyNTAwMDUyXX0=
+eyJoaXN0b3J5IjpbMTMwNjE1NzY5NSwxODQyNTAwMDUyXX0=
 -->
