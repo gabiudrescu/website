@@ -16,7 +16,7 @@ Un coleg de la birou are o pasiune foarte interesantă: mașinile de epocă. Și
 
 Eh, azi am avut ocazia să merg cu o Dacia 1300 recondiționată. Pe un drum de câțiva KM, am văzut oameni care treceau pe lângă noi (în mașină sau pe stradă) și care au întors capul sau chiar s-au pus paralel cu noi, să facă poze ori să ne filmeze.
 
-E frumos să vezi că ![enter image description here]()
+E frumos să vezi că
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzkyNDQ1LDE4NDI1MDAwNTJdfQ==
+eyJoaXN0b3J5IjpbLTg1MDIwMTUwNCwxODQyNTAwMDUyXX0=
 -->
