@@ -6,15 +6,9 @@ date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gabi Udrescu"]
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+projects = []
 # projects = ["internal-project"]
 
 # Featured image
@@ -193,3 +187,6 @@ For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license. -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTIzMTg2NTddfQ==
+-->
