@@ -16,8 +16,9 @@ I managed to save quite a lot of money through [Revolut Vaults](https://www.revo
  - [ ] Fire extinguisher
  - [ ] Smoke and CO detector
  - [ ] Robot vacuum cleaner 
- - [ ] Dishwasher
- - [ ] Convertible 
+ - [ ] Dishwasher machine
+ - [ ] Trip to New York
+ - [ ] Trip to San Francisco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgyMDgwMjgsMTQ4NDEyNzYzOF19
+eyJoaXN0b3J5IjpbLTU4NzQyNzEwNCwxNDg0MTI3NjM4XX0=
 -->
