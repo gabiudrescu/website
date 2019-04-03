@@ -10,7 +10,9 @@ author = "Gabi Udrescu"
 
 So, I decided to make a list of stuff I am planning to buy. 
 
-Together with the 
+I managed to save quite a lot of money through [Revolut Vaults](https://www.revolut.com/save-money-with-vaults) and I guess it's better to create a list to better prioritize my wishes.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTc2MzgwNV19
+eyJoaXN0b3J5IjpbLTYzNzAyNjg0NF19
 -->
