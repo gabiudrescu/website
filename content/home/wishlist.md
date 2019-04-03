@@ -12,7 +12,9 @@ So, I decided to make a list of stuff I am planning to buy.
 
 I managed to save quite a lot of money through [Revolut Vaults](https://www.revolut.com/save-money-with-vaults) and I guess it's better to create a list to better prioritize my wishes.
 
+ - [x] Trip to Rome
+ - [ ] Robot vacuum cleaner 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzAyNjg0NF19
+eyJoaXN0b3J5IjpbMTQ4NDEyNzYzOF19
 -->
