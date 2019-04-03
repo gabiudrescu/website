@@ -8,7 +8,9 @@ title = "My wishlist"
 author = "Gabi Udrescu"
 +++
 
-So, 
+So, I decided to make a list of stuff I am planning to buy. 
+
+Together with the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMjE4MTA5XX0=
+eyJoaXN0b3J5IjpbLTM3OTc2MzgwNV19
 -->
