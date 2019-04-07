@@ -23,10 +23,10 @@
   url = "/post"
   weight = 4
 
-# [[main]]
-#   name = "Tutorials"
-#   url = "/tutorial/"
-#   weight = 5
+[[main]]
+  name = "My wishlist"
+  url = "/wishlist/"
+  weight = 5
 
 [[main]]
   name = "Contact"
