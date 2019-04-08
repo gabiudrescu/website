@@ -21,7 +21,7 @@ Eh, acum câteva zile am avut ocazia să merg cu o Dacia 1300 recondiționată. 
 
 Partea frumoasă a fost când am descoperit că filmarea cu noi a ajuns pe câteva grupuri de Facebook ale pasionaților de retromobile:
 
-(to be completed, încă nu am acces la filmulețul ăla)
+{{< youtube -b8gtipa1xU >}}
 
 Până una alta, vă las mai jos cu câteva poze din colecția lui Iulian, colegul deținător de bătrâna Dacie:
 
@@ -35,3 +35,6 @@ Până una alta, vă las mai jos cu câteva poze din colecția lui Iulian, coleg
   <img data-src="https://lh3.googleusercontent.com/60j7jlsoVXsng8_IHjxGaMzKSeXs72bjrc4ka0xAGzLxn9bU831hvuiXS1kynE0wDfpldbPhxgbA8GIJ9b_1OckNTqkD5FRZq0Z-vaiyJKe3VEjmm5gYndEaEkpf_4xle0Vi-8MXWw=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/Y3aJAvQN9vtPxx8QpTSEpLJEQl_NxzwjzxhcIzXFwnUvQESMkYhTxc2zHV1nj8qFRYvbGY-QQC-8f_LOS2Mwn6qWIzH6NmQHLrrc34tCcOkIGGJRV49f4x0N2CfiAvEB1JhOfRC9pw=w1920-h1080" src="" alt="" />
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjkxMTg1MjMzXX0=
+-->
