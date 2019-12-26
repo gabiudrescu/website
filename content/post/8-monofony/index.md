@@ -53,7 +53,7 @@ Everything starts from the model: the entity.
 
 > LazyAssTip: I usually create entities by using [Symfony MakerBundle](https://symfony.com/doc/current/bundles/SymfonyMakerBundle/index.html).
 
-Once you created a list of entities you need, their relations and their properties, you can start leveraging Monofony:
+Once you created the entities you need, their properties and their relations, you can start leveraging Monofony:
 
  - declare your entity as a Sylius resource for CRUD operations backend
  - create a grid for CRUD operations frontend
@@ -66,7 +66,7 @@ Once you created a list of entities you need, their relations and their properti
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUwODcyMzUsMTgzNDQ2OTY1NSwtNT
-Q1NTA3OTI0LC0xOTAxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0
-MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2OTM4MF19
+eyJoaXN0b3J5IjpbOTYzMzM4NzgsMTgzNDQ2OTY1NSwtNTQ1NT
+A3OTI0LC0xOTAxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMz
+MTIsLTE4NDEwMTk5MDksMTY2Njk2OTM4MF19
 -->
