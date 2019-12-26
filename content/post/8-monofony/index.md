@@ -33,7 +33,8 @@ Monofony comes at hand if you:
  - require visitors to login or register on your website to be able to perform certain actions
  - send emails 
  - implement complex business logic for your items where certain states have important meaning and transitioning from one state to another triggers custom behaviour 
- - y
+ - expose an HTTP RESTful API
+ - care about software quality to implement automated testing (unit testing, integration testing or end to end) and 
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
 
@@ -53,7 +54,7 @@ These two entities come by default with Monofony.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NzA4ODIxLC0xOTAxODg2Mzk5LC0xOT
-Y3MzA0OTQzLC0xMjY0MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2
-OTM4MF19
+eyJoaXN0b3J5IjpbLTQwMjAzMzA2MSwtMTkwMTg4NjM5OSwtMT
+k2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5
+NjkzODBdfQ==
 -->
