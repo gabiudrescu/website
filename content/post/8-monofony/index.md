@@ -60,6 +60,7 @@ Once you created the entities you need, their properties and their relations, yo
  - create the routing required for the grid navigation
  - add a link to the existing menu of the application as an entrypoint for admin users
 
+## Resource
 
 
 
@@ -68,8 +69,8 @@ Once you created the entities you need, their properties and their relations, yo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgzMzQ0NDYsOTYzMzM4NzgsMTgzND
-Q2OTY1NSwtNTQ1NTA3OTI0LC0xOTAxODg2Mzk5LC0xOTY3MzA0
-OTQzLC0xMjY0MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2OTM4MF
-19
+eyJoaXN0b3J5IjpbMTYzNTM1NTQ3OCw5NjMzMzg3OCwxODM0ND
+Y5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5
+NDMsLTEyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX
+0=
 -->
