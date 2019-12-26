@@ -36,7 +36,7 @@ Monofony comes at hand if you:
  - expose an HTTP RESTful API
  - care about software quality to implement automated testing (unit testing, integration testing or end to end) and static code analysis
 
-Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just creating the entities and properly configure grids and forms for them.
+Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You will save a lot of time by just creating the entities and properly configure grids and forms for them.
 
 # Some assumptions
 
@@ -93,7 +93,7 @@ And Monofony comes with good default templates for integers, strings and dates. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTAyMDMzMyw2MzAwODM4ODgsMTQwNz
+eyJoaXN0b3J5IjpbMTgzMzM0MDc5MSw2MzAwODM4ODgsMTQwNz
 k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
 LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
 I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
