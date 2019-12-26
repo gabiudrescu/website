@@ -121,15 +121,16 @@ There are plenty of solutions out there, in the wild, that try to solve the same
 
  - EasyAdminBundle
  - SonataAdminBundle
- - OroCrm
+
+
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTIzMTQyNCwxNTc0OTMxMTE5LDYzMD
-A4Mzg4OCwxNDA3OTUzOTg1LC0zMTIxNzMzMDUsOTYzMzM4Nzgs
-MTgzNDQ2OTY1NSwtNTQ1NTA3OTI0LC0xOTAxODg2Mzk5LC0xOT
-Y3MzA0OTQzLC0xMjY0MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2
-OTM4MF19
+eyJoaXN0b3J5IjpbMTI4MjI3ODAwOSwxMjc5MjMxNDI0LDE1Nz
+Q5MzExMTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMw
+NSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MD
+E4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAx
+OTkwOSwxNjY2OTY5MzgwXX0=
 -->
