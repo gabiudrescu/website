@@ -27,8 +27,8 @@ But starting a new project can be a long and tedious job. If you have a great id
 
 Monofony is a Symfony application scaffold that allows you to bootstrap a modern application by leveraging Sylius bundles and components, helping you to focus more on what truly matters to your use-case, rather than on the underlying infrastructure required to power things up. 
 
-
-
+Monofony comes at hand if you:
+ - have a public facing
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
 
@@ -48,6 +48,7 @@ These two entities come by default with Monofony.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLT
-EyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbLTEyMjE3NTQ1ODAsLTE5MDE4ODYzOTksLT
+E5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2
+OTY5MzgwXX0=
 -->
