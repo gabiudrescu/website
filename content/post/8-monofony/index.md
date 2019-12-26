@@ -66,14 +66,15 @@ When I first learned about resources, my first question was: wtf is a resource a
 
 Well, if you declare your entity as a resource, the SyliusResourceBundle will provide you:
 
- - a factory class that you can customise to your needs 
+ - a factory class to build your entity as you need it
+ - a repository with basic methods to handle retrieval and 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzk1Mzk4NSwtMzEyMTczMzA1LDk2Mz
-MzODc4LDE4MzQ0Njk2NTUsLTU0NTUwNzkyNCwtMTkwMTg4NjM5
-OSwtMTk2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5OTA5LD
-E2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTM5ODcwMzUsMTQwNzk1Mzk4NSwtMz
+EyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUsLTU0NTUwNzky
+NCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMTI2NDEzMzEyLC
+0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
 -->
