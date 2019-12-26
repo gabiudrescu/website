@@ -51,20 +51,22 @@ These two entities come by default with Monofony.
 
 Everything starts from the model: the entity. 
 
-ProTip: I usually create entities by using Symfony MakerBundle. 
+> LazyAssTip: I usually create entities by using [Symfony MakerBundle](https://symfony.com/doc/current/bundles/SymfonyMakerBundle/index.html).
 
 Once you created a list of entities you need, their relations and their properties, you can start leveraging Monofony:
 
- - declare your entity as a Sylius resource
- - create a grid for CRUD operations
- - create the routing required for the grid
- - add a link to the existing menu of the application
+ - declare your entity as a Sylius resource for CRUD operations backend
+ - create a grid for CRUD operations frontend
+ - create the routing required for the grid navigation
+ - add a link to the existing menu of the application as an entrypoint
+
+
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQzNTgyNDAsMTgzNDQ2OTY1NSwtNT
+eyJoaXN0b3J5IjpbLTE0NDUwODcyMzUsMTgzNDQ2OTY1NSwtNT
 Q1NTA3OTI0LC0xOTAxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0
 MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2OTM4MF19
 -->
