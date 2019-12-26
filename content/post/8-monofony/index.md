@@ -47,13 +47,16 @@ Most of the times, you will need to manage different kind of users:
 
 These two entities come by default with Monofony.
 
+# Concepts
+
+
 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzI1NTU5NCwtMTkwMTg4NjM5OSwtMT
+eyJoaXN0b3J5IjpbLTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMT
 k2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5
 NjkzODBdfQ==
 -->
