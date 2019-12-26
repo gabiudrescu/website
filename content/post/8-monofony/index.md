@@ -15,12 +15,12 @@ tags = ['en']
 
 # Project concepts
 
-Starting a new project can be a long and tedious job. Setting up basic functionalities such as login, forgotten password or user reg
+Starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, f
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODQwNjkzOCwtMTg0MTAxOTkwOSwxNj
+eyJoaXN0b3J5IjpbLTcwNTUzMTYzNCwtMTg0MTAxOTkwOSwxNj
 Y2OTY5MzgwXX0=
 -->
