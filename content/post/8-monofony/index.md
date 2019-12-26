@@ -80,12 +80,16 @@ The most powerful part of the grid is that you can customise how they look becau
 
 And Monofony comes with good default templates for integers, strings and dates. But you can create your own for rich content such as images, workflow statues or nested objects.
 
+# Customisations
+
+Although Sylius Resources and Grids are coming with pretty good defaults, you can customise them to your needs quite easi
+
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ4MTgwMzIsNjMwMDgzODg4LDE0MD
-c5NTM5ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1
-LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLT
-EyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbMTYzNDg3NTgzNiw2MzAwODM4ODgsMTQwNz
+k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
+LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
+I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
 -->
