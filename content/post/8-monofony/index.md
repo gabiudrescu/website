@@ -90,14 +90,18 @@ Although Sylius Resources and Grids are coming with pretty good defaults, you ca
  - custom actions
  - custom templates
 
-And, you don't need to reimplement everything just to modify some behaviour. You can rely on 
+And, you don't need to reimplement everything just to modify some behaviour. You can rely on Events to customise how the app works. 
+
+# Testing
+
+Monofony comes with the following testing infrastructure preconfigured f
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjYzNDMxMCw2MzAwODM4ODgsMTQwNz
-k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
-LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
-I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTE5Njc3NjUwNzEsNjMwMDgzODg4LDE0MD
+c5NTM5ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1
+LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLT
+EyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
 -->
