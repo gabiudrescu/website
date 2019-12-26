@@ -17,12 +17,12 @@ tags = ['en']
 
 Starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, forget password or user registration, your enthusiasm will soon fade away. And who wants to do a full setup for continuous integration every single time you start something new? 
 
-Monofony is a spin-off Sylius, meant to leverage the 
+Monofony was build in order to help you start a new modern Symfony application with tools 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTkxMDkyOCwtMTg0MTAxOTkwOSwxNj
-Y2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbLTEyMDU4MDI1NjcsLTE4NDEwMTk5MDksMT
+Y2Njk2OTM4MF19
 -->
