@@ -66,7 +66,7 @@ When I first learned about resources, my first question was: wtf is a resource a
 
 Well, if you declare your entity as a resource, the SyliusResourceBundle will provide you:
 
- - a factory class to build your entity as you need it
+ - a factory class to build your entity as you need it, so you don't need to `$entity = new Entity();` everywhere.
  - a repository with basic methods to cover adding, removing, paginating and database retrieval
  - a controller for listing entities, showing one item, creating, updating, deleting and even bulk deleting stuff
  - customisations points through Events
@@ -74,6 +74,8 @@ Well, if you declare your entity as a resource, the SyliusResourceBundle will pr
  - default routes for HTTP CRUD operations (basic REST API)
 
 So, basically, everything you need to build an admin interface. Now you just need templates.
+
+This is why you need Monofo
 
 ## Grid
 
@@ -93,7 +95,7 @@ And Monofony comes with good default templates for integers, strings and dates. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjY5NTM2NywxNDA3OTUzOTg1LC0zMT
+eyJoaXN0b3J5IjpbLTI4Nzg3OTA2OSwxNDA3OTUzOTg1LC0zMT
 IxNzMzMDUsOTYzMzM4NzgsMTgzNDQ2OTY1NSwtNTQ1NTA3OTI0
 LC0xOTAxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLT
 E4NDEwMTk5MDksMTY2Njk2OTM4MF19
