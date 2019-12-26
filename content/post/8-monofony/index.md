@@ -143,13 +143,15 @@ Personally, what I also miss in Monofony is a good Docker setup for [development
 
 # Final words
 
-I have been a product owner for an eCommerce website that relied on the foundation Monofony is built and there have been a few projects I have been in charge of that reached production and performed quite well
+I have been a product owner for an eCommerce website that relied on the foundation Monofony is built and there have been a few projects I have been in charge of that reached production and performed quite well.
+
+The architecture, the flexibility and the extensibility of the platform recommends it for both prototyping 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODUyMTYwNSwxNzE2OTkyNjAwLC00NT
+eyJoaXN0b3J5IjpbMTU2MjgwNDcwNCwxNzE2OTkyNjAwLC00NT
 c2NDQxNjIsMTI3OTIzMTQyNCwxNTc0OTMxMTE5LDYzMDA4Mzg4
 OCwxNDA3OTUzOTg1LC0zMTIxNzMzMDUsOTYzMzM4NzgsMTgzND
 Q2OTY1NSwtNTQ1NTA3OTI0LC0xOTAxODg2Mzk5LC0xOTY3MzA0
