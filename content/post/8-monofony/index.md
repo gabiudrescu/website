@@ -9,7 +9,10 @@ authors = ["Gabi Udrescu"]
 
 tags = ['en']
 +++
+
+
 {{% toc %}}
+
 
 *Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on Sylius Slack, I wanted to use this whenever someone asked me what is Monofony, why use it, how can I use Sylius (concepts) in my own application; although initially I planned to just translate it to English, I decided to rewrite it a little bit and adapt it to my needs.*
 
@@ -133,9 +136,9 @@ notes on monofony:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ5Njc1MTYsMTI3OTIzMTQyNCwxNT
-c0OTMxMTE5LDYzMDA4Mzg4OCwxNDA3OTUzOTg1LC0zMTIxNzMz
-MDUsOTYzMzM4NzgsMTgzNDQ2OTY1NSwtNTQ1NTA3OTI0LC0xOT
-AxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLTE4NDEw
-MTk5MDksMTY2Njk2OTM4MF19
+eyJoaXN0b3J5IjpbNzYwMzQ0MjQ2LDEyNzkyMzE0MjQsMTU3ND
+kzMTExOSw2MzAwODM4ODgsMTQwNzk1Mzk4NSwtMzEyMTczMzA1
+LDk2MzMzODc4LDE4MzQ0Njk2NTUsLTU0NTUwNzkyNCwtMTkwMT
+g4NjM5OSwtMTk2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5
+OTA5LDE2NjY5NjkzODBdfQ==
 -->
