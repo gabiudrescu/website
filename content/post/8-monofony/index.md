@@ -49,14 +49,16 @@ These two entities come by default with Monofony.
 
 # Concepts
 
+Everything starts from the model: the entity. 
 
+Once you created a list of entities you need, their relations and their properties, you can start leveraging 
 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMT
-k2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5
-NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ0NjQ1OCwtNTQ1NTA3OTI0LC0xOT
+AxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLTE4NDEw
+MTk5MDksMTY2Njk2OTM4MF19
 -->
