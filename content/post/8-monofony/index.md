@@ -68,14 +68,18 @@ Well, if you declare your entity as a resource, the SyliusResourceBundle will pr
 
  - a factory class to build your entity as you need it
  - a repository with basic methods to cover adding, removing, paginating and database retrieval
- - a controller for listing entities, showing one item, creating, updating, deleting and even 
+ - a controller for listing entities, showing one item, creating, updating, deleting and even bulk deleting stuff
+ - customisations points through Events
+ - default forms based on declared properties
+ - default routes for HTTP CRUD operations (basic REST API)
+ - 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUxMDA3MjMsMTQwNzk1Mzk4NSwtMz
-EyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUsLTU0NTUwNzky
-NCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMTI2NDEzMzEyLC
-0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTQwNjc5Njg4NSwxNDA3OTUzOTg1LC0zMT
+IxNzMzMDUsOTYzMzM4NzgsMTgzNDQ2OTY1NSwtNTQ1NTA3OTI0
+LC0xOTAxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLT
+E4NDEwMTk5MDksMTY2Njk2OTM4MF19
 -->
