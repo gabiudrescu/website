@@ -15,11 +15,12 @@ tags = ['en']
 
 # Project concepts
 
+Starting a new project can be a long and tedious job. Setting up basic functionalities such as login, forgotten password or user reg
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE3OTIxNCwtMTg0MTAxOTkwOSwxNj
+eyJoaXN0b3J5IjpbMTc2ODQwNjkzOCwtMTg0MTAxOTkwOSwxNj
 Y2OTY5MzgwXX0=
 -->
