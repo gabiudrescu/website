@@ -72,14 +72,22 @@ Well, if you declare your entity as a resource, the SyliusResourceBundle will pr
  - customisations points through Events
  - default forms based on declared properties
  - default routes for HTTP CRUD operations (basic REST API)
- - 
+
+So, basically, everything you need to build an admin interface. Now you just need templates.
+
+## Grid
+
+This is where Grid comes to power and where Monofony saves you lots of time. 
+
+SyliusGridBundle is a bundle that takes a previously registered Resource and creates a grid where you can:
+
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjc5Njg4NSwxNDA3OTUzOTg1LC0zMT
-IxNzMzMDUsOTYzMzM4NzgsMTgzNDQ2OTY1NSwtNTQ1NTA3OTI0
-LC0xOTAxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLT
-E4NDEwMTk5MDksMTY2Njk2OTM4MF19
+eyJoaXN0b3J5IjpbLTc0NjY3NjgxLDE0MDc5NTM5ODUsLTMxMj
+E3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQs
+LTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMT
+g0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
 -->
