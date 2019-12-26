@@ -54,14 +54,15 @@ Everything starts from the model: the entity.
 Once you created a list of entities you need, their relations and their properties, you can start leveraging Monofony:
 
  - declare your entity as a Sylius resource
- - create a grid for CRUD
- - create the routing require d
+ - create a grid for CRUD operations
+ - create the routing required for the grid
+ - add a link to the existing menu of the application
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDM3Mjg4NiwtNTQ1NTA3OTI0LC0xOT
+eyJoaXN0b3J5IjpbMTgzNDQ2OTY1NSwtNTQ1NTA3OTI0LC0xOT
 AxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLTE4NDEw
 MTk5MDksMTY2Njk2OTM4MF19
 -->
