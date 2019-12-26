@@ -135,7 +135,9 @@ Compared to Monofony, EasyAdminBundle has a better documentation and it has an e
 
 Compared to Monofony, SonataAdminBundle feels old and outdated, but that's just me, but that mostly because I knew Sonata long time before I ever heard of Sylius and before Monofony was invented. Both lack the documentation EasyAdmin provides, but their flexibility and extensibility make up to that. If you manage to grasp everything and you are not afraid to push your google skills to the limit. 
 
-Monofony might not have that big community behind it, yet, but because it is basically a Sylius without the eCommerce customisation, you can safely rely on t
+Monofony might not have that big community behind it, yet, but because it is basically a Sylius without the eCommerce customisation, you can safely rely on that community for help. And that documentation, as well. 
+
+Monofony, like Sylius, puts a big emphasis on code quality and automated testing. This is something important, especially for a project that might become big enough to matter. And it also helps you learn from others how to easily and properly do programming nowadays, without manually testing and 
 
 notes on monofony:
  - not having a big community yet
@@ -148,10 +150,10 @@ notes on monofony:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM2ODI3OTYsMTcxNjk5MjYwMCwtND
-U3NjQ0MTYyLDEyNzkyMzE0MjQsMTU3NDkzMTExOSw2MzAwODM4
-ODgsMTQwNzk1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4Mz
-Q0Njk2NTUsLTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMw
-NDk0MywtMTI2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzOD
-BdfQ==
+eyJoaXN0b3J5IjpbNjc3NzQzNTY4LDE3MTY5OTI2MDAsLTQ1Nz
+Y0NDE2MiwxMjc5MjMxNDI0LDE1NzQ5MzExMTksNjMwMDgzODg4
+LDE0MDc5NTM5ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0ND
+Y5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5
+NDMsLTEyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX
+0=
 -->
