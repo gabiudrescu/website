@@ -99,17 +99,20 @@ Monofony comes with the following testing infrastructure preconfigured for your 
 ### Unit testing:
  - PHPSpec for Spec BDD
  - PHPUnit for classic unit testing
- - Faker for providing mocking data
 
 ### Integration testing 
- - PHPUnit 
+ - PHPUnit with API TestCase extension
+ - Behat
+
+### End 2 End Testing
+ - Behat with Selenium and Chrome 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDgzMDA5OCw2MzAwODM4ODgsMTQwNz
-k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
-LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
-I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTg2MDcxMTQsNjMwMDgzODg4LDE0MD
+c5NTM5ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1
+LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLT
+EyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
 -->
