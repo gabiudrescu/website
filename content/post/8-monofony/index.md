@@ -137,7 +137,9 @@ Compared to Monofony, SonataAdminBundle feels old and outdated, but that's just 
 
 Monofony might not have that big community behind it, yet, but because it is basically a Sylius without the eCommerce customisation, you can safely rely on that community for help. And that documentation, as well. 
 
-Monofony, like Sylius, puts a big emphasis on code quality and automated testing. This is something important, especially for a project that might become big enough to matter. And it also helps you learn from others how to easily and properly do programming nowadays, without manually testing and 
+Monofony, like Sylius, puts a big emphasis on code quality and automated testing. This is something important, especially for a project that might become big enough to matter. And it also helps you learn from others how to easily and properly do programming nowadays, without having to worry about issues that were already tackled. Monofony won't do your work on this end, but it will surely relief some heads aches from your head when it comes to QA. 
+
+Personally, what I also miss in Monofony is a 
 
 notes on monofony:
  - not having a big community yet
@@ -150,10 +152,10 @@ notes on monofony:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NzQzNTY4LDE3MTY5OTI2MDAsLTQ1Nz
-Y0NDE2MiwxMjc5MjMxNDI0LDE1NzQ5MzExMTksNjMwMDgzODg4
-LDE0MDc5NTM5ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0ND
-Y5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5
-NDMsLTEyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX
-0=
+eyJoaXN0b3J5IjpbMTMxNzQ5NDIxMSwxNzE2OTkyNjAwLC00NT
+c2NDQxNjIsMTI3OTIzMTQyNCwxNTc0OTMxMTE5LDYzMDA4Mzg4
+OCwxNDA3OTUzOTg1LC0zMTIxNzMzMDUsOTYzMzM4NzgsMTgzND
+Q2OTY1NSwtNTQ1NTA3OTI0LC0xOTAxODg2Mzk5LC0xOTY3MzA0
+OTQzLC0xMjY0MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2OTM4MF
+19
 -->
