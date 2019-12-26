@@ -122,15 +122,15 @@ There are plenty of solutions out there, in the wild, that try to scratch the sa
  - EasyAdminBundle
  - SonataAdminBundle
 
-Although Monofony is not 
+Although none are 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjU2NzY1MCwxMjc5MjMxNDI0LDE1Nz
-Q5MzExMTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMw
-NSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MD
-E4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAx
-OTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbMzg5NDM1NDYwLDEyNzkyMzE0MjQsMTU3ND
+kzMTExOSw2MzAwODM4ODgsMTQwNzk1Mzk4NSwtMzEyMTczMzA1
+LDk2MzMzODc4LDE4MzQ0Njk2NTUsLTU0NTUwNzkyNCwtMTkwMT
+g4NjM5OSwtMTk2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5
+OTA5LDE2NjY5NjkzODBdfQ==
 -->
