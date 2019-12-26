@@ -32,6 +32,8 @@ Monofony comes at hand if you:
  - show list of items with filters, sorting and pagination
  - require visitors to login or register on your website to be able to perform certain actions
  - send emails 
+ - implement complex business logic for your items where certain states have important meaning and transitioning from one state to another triggers custom behaviour 
+ - y
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
 
@@ -51,7 +53,7 @@ These two entities come by default with Monofony.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIzMDA1NzMsLTE5MDE4ODYzOTksLT
-E5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2
-OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbODk4NzA4ODIxLC0xOTAxODg2Mzk5LC0xOT
+Y3MzA0OTQzLC0xMjY0MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2
+OTM4MF19
 -->
