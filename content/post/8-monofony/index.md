@@ -113,14 +113,21 @@ Monofony comes with the following testing infrastructure preconfigured for your 
  - PHP Coding Standard configuration
  - Travis-CI configuration for running everything to make sure your commit is not breaking the existing code behaviour
 
-Now, you really don't have any other excuse not to properly test your application. 
+Now, you really don't have any other excuse not to properly test your application before going in production.
+
+# Monofony is not perfect
+
+There are plenty of solutions out there, in the wild, that try to solve the same itch. A few that I used and I want to mention:
+
+ - EasyAdminBundle
+ - Sona
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ4Nzc4NDUsNjMwMDgzODg4LDE0MD
-c5NTM5ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1
-LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLT
-EyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbMTU3NDkzMTExOSw2MzAwODM4ODgsMTQwNz
+k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
+LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
+I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
 -->
