@@ -131,7 +131,10 @@ There are plenty of solutions out there, in the wild, that try to scratch the sa
  - EasyAdminBundle
  - SonataAdminBundle
 
-Compared to Monofony, EasyAdminBundle has a better documentation and it has an easier implementation, at first. But things start to become a little bit tricky when you
+Compared to Monofony, EasyAdminBundle has a better documentation and it has an easier implementation, at first. But things start to become a little bit tricky when you want to do more advanced stuff such as filters or customisations. You either end up rewritting a lot of the EasyAdmin elements (controllers, forms etc.) that you start wondering if it wouldn't have been a better idea to implement it from scratch rather that tie yourself to a 3rd party bundle for good. 
+
+Compared to Monofony, SonataAdminBundle feels old and outdated, but that mostly because I knew
+
 notes on monofony:
  - not having a big community yet
  - the documentation exists, but is not like EasyAdmin
@@ -143,9 +146,9 @@ notes on monofony:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ1ODU2NzcsLTQ1NzY0NDE2MiwxMj
-c5MjMxNDI0LDE1NzQ5MzExMTksNjMwMDgzODg4LDE0MDc5NTM5
-ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1LC01ND
-U1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQx
-MzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbMTczNzgxNDQxMiwtNDU3NjQ0MTYyLDEyNz
+kyMzE0MjQsMTU3NDkzMTExOSw2MzAwODM4ODgsMTQwNzk1Mzk4
+NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUsLTU0NT
+UwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMTI2NDEz
+MzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
 -->
