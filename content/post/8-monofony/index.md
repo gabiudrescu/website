@@ -38,15 +38,6 @@ Monofony comes at hand if you:
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You will save a lot of time by just creating the entities and properly configure grids and forms for them.
 
-# Some assumptions
-
-Most of the times, you will need to manage different kind of users:
-
- - administrators, who will be able to access back office 
- - and customers, who will use the public part of the application / website
-
-These two entities come by default with Monofony.
-
 # Concepts
 
 Everything starts from the model: the entity. 
@@ -62,9 +53,9 @@ Once you created the entities you need, their properties and their relations, yo
 
 ## Resource
 
-When I first learned about resources, my first question was: wtf is a resource and what's the difference between that and an entity?
+When I first learned about Resources, my first question was: wtf is a resource and what's the difference between that and an entity?
 
-Well, if you declare your entity as a resource, the SyliusResourceBundle will provide you:
+Well, if you declare your entity as a Resource, the SyliusResourceBundle will provide you:
 
  - a factory class to build your entity as you need it, so you don't need to `$entity = new Entity();` everywhere.
  - a repository with basic methods to cover adding, removing, paginating and database retrieval
@@ -93,8 +84,8 @@ And Monofony comes with good default templates for integers, strings and dates. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzM0MDc5MSw2MzAwODM4ODgsMTQwNz
-k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
-LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
-I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTE5ODQ4MTgwMzIsNjMwMDgzODg4LDE0MD
+c5NTM5ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1
+LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLT
+EyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
 -->
