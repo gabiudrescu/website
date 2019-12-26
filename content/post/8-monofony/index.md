@@ -139,20 +139,16 @@ Monofony might not have that big community behind it, yet, but because it is bas
 
 Monofony, like Sylius, puts a big emphasis on code quality and automated testing. This is something important, especially for a project that might become big enough to matter. And it also helps you learn from others how to easily and properly do programming nowadays, without having to worry about issues that were already tackled. Monofony won't do your work on this end, but it will surely relief some heads aches from your head when it comes to QA. 
 
-Personally, what I also miss in Monofony is a good Docker setup for development and production deployment, especially that Sylius already has a pretty good one already in place. But, that should be addressed, at a certain point, since I started an [issue](https://github.com/Monofony/SymfonyStarter/issues/193) about this. 
+Personally, what I also miss in Monofony is a good Docker setup for [development](https://github.com/Sylius/Sylius-Standard/blob/master/docker-compose.yml) and [production](https://github.com/Sylius/Sylius-Standard/blob/master/docker-compose.prod.yml) deployment, especially that Sylius already has a pretty good one already in place. But, that should be addressed, at a certain point, since I started an [issue](https://github.com/Monofony/SymfonyStarter/issues/193) about this. 
 
-notes on monofony:
- - not having a big community yet
- - the documentation exists, but is not like EasyAdmin
- - it encourages you to test your application
- - it lacks docker setup
+# Final words
 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgwMDkxNjEsMTcxNjk5MjYwMCwtND
+eyJoaXN0b3J5IjpbLTIwMjgwMjE1OTAsMTcxNjk5MjYwMCwtND
 U3NjQ0MTYyLDEyNzkyMzE0MjQsMTU3NDkzMTExOSw2MzAwODM4
 ODgsMTQwNzk1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4Mz
 Q0Njk2NTUsLTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMw
