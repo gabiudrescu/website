@@ -131,6 +131,7 @@ There are plenty of solutions out there, in the wild, that try to scratch the sa
  - EasyAdminBundle
  - SonataAdminBundle
 
+Compared to Monofony, EasyAdminBundle has a better documentation and it has an easier implementation, at first. But things start to become a little bit tricky when you
 notes on monofony:
  - not having a big community yet
  - the documentation exists, but is not like EasyAdmin
@@ -142,9 +143,9 @@ notes on monofony:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzY0NDE2MiwxMjc5MjMxNDI0LDE1Nz
-Q5MzExMTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMw
-NSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MD
-E4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAx
-OTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbLTE1OTQ1ODU2NzcsLTQ1NzY0NDE2MiwxMj
+c5MjMxNDI0LDE1NzQ5MzExMTksNjMwMDgzODg4LDE0MDc5NTM5
+ODUsLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1LC01ND
+U1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQx
+MzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
 -->
