@@ -17,7 +17,9 @@ tags = ['en']
 
 My personal belief is that whenever you have an itch, there is someone out there, in the world, who has already had a similar problem and, most probably, already has a solution for that. 
 
-And, instead of reinventing the w
+And, instead of reinventing the wheel, you can use your time and energy to build on existing grounds, rather than start from scratch.
+
+Every once in a while, I tend to have *that idea* that excites me to the point when I am able to spend a few nights working on it while still 
 
 Starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, forget password or user registration, your enthusiasm will soon fade away. And who wants to do a full setup for continuous integration every single time you start something new? 
 
@@ -36,6 +38,6 @@ These two entities come by default with Monofony.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzAwNzk1NywtMTI2NDEzMzEyLC0xOD
-QxMDE5OTA5LDE2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTE3ODM1NzkzMjgsLTEyNjQxMzMxMiwtMT
+g0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
 -->
