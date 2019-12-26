@@ -62,15 +62,18 @@ Once you created the entities you need, their properties and their relations, yo
 
 ## Resource
 
-Sylius Resource is meant to help you avoid duplicate code amon
+When I first learned about resources, my first question was: wtf is a resource and what's the difference between that and an entity?
 
+Well, if you declare your entity as a resource, the SyliusResourceBundle will provide you:
+
+ - a factory class that you can customise to your needs 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjE3MzMwNSw5NjMzMzg3OCwxODM0ND
-Y5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYzOTksLTE5NjczMDQ5
-NDMsLTEyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNjY2OTY5MzgwXX
-0=
+eyJoaXN0b3J5IjpbMTQwNzk1Mzk4NSwtMzEyMTczMzA1LDk2Mz
+MzODc4LDE4MzQ0Njk2NTUsLTU0NTUwNzkyNCwtMTkwMTg4NjM5
+OSwtMTk2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5OTA5LD
+E2NjY5NjkzODBdfQ==
 -->
