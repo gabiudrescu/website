@@ -117,18 +117,18 @@ Now, you really don't have any other excuse not to properly test your applicatio
 
 # Monofony is not perfect
 
-There are plenty of solutions out there, in the wild, that try to solve the same itch. A few that I used and I want to mention:
+There are plenty of solutions out there, in the wild, that try to scratch the same itch. A few that I used and I want to mention:
 
  - EasyAdminBundle
  - SonataAdminBundle
 
-
+Although Monofony is not 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjI3ODAwOSwxMjc5MjMxNDI0LDE1Nz
+eyJoaXN0b3J5IjpbLTYyNjU2NzY1MCwxMjc5MjMxNDI0LDE1Nz
 Q5MzExMTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMw
 NSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MD
 E4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAx
