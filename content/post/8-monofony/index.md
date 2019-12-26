@@ -11,7 +11,7 @@ tags = ['en']
 +++
 {{% toc %}}
 
-*Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on Sylius Slack, I wanted to use this whenever someone asked me what is Monofony, why use it, how can I use Sylius (concepts) in my own *
+*Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on Sylius Slack, I wanted to use this whenever someone asked me what is Monofony, why use it, how can I use Sylius (concepts) in my own application; although initially I planned to just translate it to English, I decided to rewrite it a little bit and adapt it to my needs.*
 
 # The itch
 
@@ -93,7 +93,7 @@ And Monofony comes with good default templates for integers, strings and dates. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTgyNjQyNCw2MzAwODM4ODgsMTQwNz
+eyJoaXN0b3J5IjpbMTczOTAyMDMzMyw2MzAwODM4ODgsMTQwNz
 k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
 LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
 I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
