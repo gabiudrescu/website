@@ -19,14 +19,19 @@ Starting a new project can be a long and tedious job. If you have a great idea y
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
 
-Most of the times, you will need to manage different kind of users: 
+Most of the times, you will need to manage different kind of users. So, in our demo we will have: 
 
- - List item
+ - administrators, who will be able to access back office 
+ - and customers, who will use the public part of the application / website
+
+These two entities come by default with Monofony.
+
+
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDE3ODMwLC0xODQxMDE5OTA5LDE2Nj
-Y5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTEyNjQxMzMxMiwtMTg0MTAxOTkwOSwxNj
+Y2OTY5MzgwXX0=
 -->
