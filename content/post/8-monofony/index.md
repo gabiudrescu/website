@@ -25,7 +25,7 @@ But starting a new project can be a long and tedious job. If you have a great id
 
 # What is Monofony?
 
-Monofony is a 
+Monofony is a Symfony 
 
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
@@ -46,6 +46,6 @@ These two entities come by default with Monofony.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA1NTExODgsLTEyNjQxMzMxMiwtMT
-g0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbMTEwMDE0MjEyOSwtMTI2NDEzMzEyLC0xOD
+QxMDE5OTA5LDE2NjY5NjkzODBdfQ==
 -->
