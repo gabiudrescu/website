@@ -81,12 +81,19 @@ This is where Grid comes to power and where Monofony saves you lots of time.
 
 SyliusGridBundle is a bundle that takes a previously registered Resource and creates a grid where you can:
 
+ - list entities by using a custom repository method with built-in pagination
+ - filter what entities you show in your list based on complex criteria 
+ - sort entities as you need
+
+The most powerful part of the grid is that you can customise how they look because every column can be an independent twig template. 
+
+And 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjY3NjgxLDE0MDc5NTM5ODUsLTMxMj
+eyJoaXN0b3J5IjpbOTUyMjMwNTAwLDE0MDc5NTM5ODUsLTMxMj
 E3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQs
 LTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMT
 g0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
