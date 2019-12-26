@@ -87,14 +87,14 @@ SyliusGridBundle is a bundle that takes a previously registered Resource and cre
 
 The most powerful part of the grid is that you can customise how they look because every column can be an independent twig template. 
 
-And 
+And Monofony comes with good default templates for integers, strings and dates. But you can create your own for rich content such as images, workflow statues or nested objects.
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMjMwNTAwLDE0MDc5NTM5ODUsLTMxMj
-E3MzMwNSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQs
-LTE5MDE4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMT
-g0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbMTg1NjY5NTM2NywxNDA3OTUzOTg1LC0zMT
+IxNzMzMDUsOTYzMzM4NzgsMTgzNDQ2OTY1NSwtNTQ1NTA3OTI0
+LC0xOTAxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLT
+E4NDEwMTk5MDksMTY2Njk2OTM4MF19
 -->
