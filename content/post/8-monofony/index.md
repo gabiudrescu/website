@@ -122,14 +122,18 @@ There are plenty of solutions out there, in the wild, that try to scratch the sa
  - EasyAdminBundle
  - SonataAdminBundle
 
-notes:
- - big commun
+notes on monofony:
+ - not having a big community yet
+ - the documentation exists, but is not like EasyAdmin
+ - it encourages you to test your application
+ - it lacks docker setup
+
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ3NjI2MTksMTI3OTIzMTQyNCwxNT
+eyJoaXN0b3J5IjpbLTE3NDQ5Njc1MTYsMTI3OTIzMTQyNCwxNT
 c0OTMxMTE5LDYzMDA4Mzg4OCwxNDA3OTUzOTg1LC0zMTIxNzMz
 MDUsOTYzMzM4NzgsMTgzNDQ2OTY1NSwtNTQ1NTA3OTI0LC0xOT
 AxODg2Mzk5LC0xOTY3MzA0OTQzLC0xMjY0MTMzMTIsLTE4NDEw
