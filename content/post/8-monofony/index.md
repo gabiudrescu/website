@@ -16,7 +16,9 @@ tags = ['en']
 
 *Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on Sylius Slack, I wanted to use this whenever someone asked me what is Monofony, why use it, how can I use Sylius (concepts) in my own application; although initially I planned to just translate it to English, I decided to rewrite it a little bit and adapt it to my needs.*
 
+
 # The itch
+
 
 My personal belief is that whenever you have an itch, there is someone out there, in the world, who has already had a similar problem and, most probably, already has a solution for that. 
 
@@ -26,7 +28,9 @@ Every once in a while, I tend to have *that idea* that excites me to the point w
 
 But starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, forget password or user registration, the enthusiasm will soon fade away. And who wants to do a full setup for continuous integration every single time you start something new? 
 
+
 # What is Monofony?
+
 
 Monofony is a Symfony application scaffold that allows you to bootstrap a modern application by leveraging Sylius bundles and components, helping you to focus more on what truly matters to your use-case, rather than on the underlying infrastructure required to power things up. 
 
@@ -41,7 +45,9 @@ Monofony comes at hand if you:
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You will save a lot of time by just creating the entities and properly configure grids and forms for them.
 
+
 # Concepts
+
 
 Everything starts from the model: the entity. 
 
@@ -136,9 +142,9 @@ notes on monofony:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMzQ0MjQ2LDEyNzkyMzE0MjQsMTU3ND
-kzMTExOSw2MzAwODM4ODgsMTQwNzk1Mzk4NSwtMzEyMTczMzA1
-LDk2MzMzODc4LDE4MzQ0Njk2NTUsLTU0NTUwNzkyNCwtMTkwMT
-g4NjM5OSwtMTk2NzMwNDk0MywtMTI2NDEzMzEyLC0xODQxMDE5
-OTA5LDE2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTQ1NzY0NDE2MiwxMjc5MjMxNDI0LDE1Nz
+Q5MzExMTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMw
+NSw5NjMzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MD
+E4ODYzOTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAx
+OTkwOSwxNjY2OTY5MzgwXX0=
 -->
