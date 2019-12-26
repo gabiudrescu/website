@@ -23,11 +23,17 @@ Every once in a while, I tend to have *that idea* that excites me to the point w
 
 But starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, forget password or user registration, the enthusiasm will soon fade away. And who wants to do a full setup for continuous integration every single time you start something new? 
 
+# What is Monofony?
+
+Monofony is a 
+
+
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
 
-## Some assumptions
 
-Most of the times, you will need to manage different kind of users. So, in our demo we will have: 
+# Some assumptions
+
+Most of the times, you will need to manage different kind of users:
 
  - administrators, who will be able to access back office 
  - and customers, who will use the public part of the application / website
@@ -40,6 +46,6 @@ These two entities come by default with Monofony.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODgwMzQ0MCwtMTI2NDEzMzEyLC0xOD
-QxMDE5OTA5LDE2NjY5NjkzODBdfQ==
+eyJoaXN0b3J5IjpbLTE2OTA1NTExODgsLTEyNjQxMzMxMiwtMT
+g0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
 -->
