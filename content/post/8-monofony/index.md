@@ -108,14 +108,15 @@ Monofony comes with the following testing infrastructure preconfigured for your 
  - Behat with Selenium and Google Chrome setup for Javascript interaction
 
 ### Code quality
- - Infection setup for mutation testing
- - PHPStan
+ - Infection setup for mutation testing with PHPSpec integration
+ - PHPStan and PSALM for static code analysis
+ - PHP Coding Standard 
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTYwNDQxMSw2MzAwODM4ODgsMTQwNz
+eyJoaXN0b3J5IjpbMTcxODgwMjYzMCw2MzAwODM4ODgsMTQwNz
 k1Mzk4NSwtMzEyMTczMzA1LDk2MzMzODc4LDE4MzQ0Njk2NTUs
 LTU0NTUwNzkyNCwtMTkwMTg4NjM5OSwtMTk2NzMwNDk0MywtMT
 I2NDEzMzEyLC0xODQxMDE5OTA5LDE2NjY5NjkzODBdfQ==
