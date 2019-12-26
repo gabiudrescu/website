@@ -17,12 +17,16 @@ tags = ['en']
 
 Starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, forget password or user registration, your enthusiasm will soon fade away. And who wants to do a full setup for continuous integration every single time you start something new? 
 
-Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. Y
+Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
+
+Most of the times, you will need to manage different kind of users: 
+
+ - List item
 
 [source](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1MDAwMTMsLTE4NDEwMTk5MDksMT
-Y2Njk2OTM4MF19
+eyJoaXN0b3J5IjpbMTY1MDE3ODMwLC0xODQxMDE5OTA5LDE2Nj
+Y5NjkzODBdfQ==
 -->
