@@ -13,17 +13,19 @@ tags = ['en']
 
 *Translator note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on Sylius Slack, I thought it would be useful to translate it in English, as my French is not that good; this should help me in the future when someone asks me why use Monofony and why is this package that great; I also took the liberty to rewrite the original article with my own words, following the original idea.*
 
-# Project concepts
+# The itch
 
 My personal belief is that whenever you have an itch, there is someone out there, in the world, who has already had a similar problem and, most probably, already has a solution for that. 
 
 And, instead of reinventing the wheel, you can use your time and energy to build on existing grounds, rather than start from scratch.
 
-Every once in a while, I tend to have *that idea* that excites me to the point when I am able to spend a few nights working on it while still 
+Every once in a while, I tend to have *that idea* that excites me to the point when I am able to spend a few nights working on it while still attending my day-to-day job. 
 
-Starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, forget password or user registration, your enthusiasm will soon fade away. And who wants to do a full setup for continuous integration every single time you start something new? 
+But starting a new project can be a long and tedious job. If you have a great idea you want to put out there in the wild as soon as possible to get feedback and it takes you a full day only to setup such basic functionalities, such as login, forget password or user registration, the enthusiasm will soon fade away. And who wants to do a full setup for continuous integration every single time you start something new? 
 
 Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You wil save a lot of time by just properly configuring grids and forms.
+
+## Some assumptions
 
 Most of the times, you will need to manage different kind of users. So, in our demo we will have: 
 
@@ -38,6 +40,6 @@ These two entities come by default with Monofony.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM1NzkzMjgsLTEyNjQxMzMxMiwtMT
-g0MTAxOTkwOSwxNjY2OTY5MzgwXX0=
+eyJoaXN0b3J5IjpbMjExODgwMzQ0MCwtMTI2NDEzMzEyLC0xOD
+QxMDE5OTA5LDE2NjY5NjkzODBdfQ==
 -->
