@@ -14,13 +14,13 @@ tags = ['en']
 {{% toc %}}
 
 
-*Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on [Sylius Slack](https://sylius-slackin.herokuapp.com/), I wanted to use this whenever someone asked me what is Monofony, why use it, how can I use Sylius (concepts) in my own application; although initially I planned to just translate it to English, I decided to rewrite it a little bit and adapt it to my needs.*
+*Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on [Sylius Slack](https://sylius-slackin.herokuapp.com/), I wanted to use this whenever someone asked me what is [Monofony](https://github.com/Monofony/SymfonyStarter), why use it, how can I use Sylius (concepts) in my own application; although initially I planned to just translate it to English, I decided to rewrite it a little bit and adapt it to my needs.*
 
 
 # The itch
 
 
-My personal belief is that whenever you have an itch, there is someone out there, in the world, who has already had a similar problem and, most probably, already has a solution for that. 
+My personal belief is that whenever you have an *itch*, there is someone out there, in the world, who has already had a similar problem and, most probably, already has a solution for that. 
 
 And, instead of reinventing the wheel, you can use your time and energy to build on existing grounds, rather than start from scratch.
 
@@ -32,7 +32,7 @@ But starting a new project can be a long and tedious job. If you have a great id
 # What is Monofony?
 
 
-Monofony is a Symfony application scaffold that allows you to bootstrap a modern application by leveraging Sylius bundles and components, helping you to focus more on what truly matters to your use-case, rather than on the underlying infrastructure required to power things up. 
+[Monofony](https://github.com/Monofony/SymfonyStarter) is a Symfony application scaffold that allows you to bootstrap a modern application by leveraging Sylius bundles and components, helping you to focus more on what truly matters to your use-case, rather than on the underlying infrastructure required to power things up. 
 
 Monofony comes at hand if you:
  - have a public facing part of your application and a backend, only for admin
@@ -43,7 +43,7 @@ Monofony comes at hand if you:
  - expose an HTTP RESTful API
  - care about software quality to implement automated testing (unit testing, integration testing or end to end) and static code analysis
 
-Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from Sylius, whether you are building a backend, an API or a full stack application. You will save a lot of time by just creating the entities and properly configure grids and forms for them.
+Starting a new Symfony application with Monofony allows you to work faster by using built-in functionalities from [Sylius](https://sylius.com), whether you are building a backend, an API or a full stack application. You will save a lot of time by just creating the entities and properly configure grids and forms for them.
 
 
 # Concepts
@@ -151,7 +151,7 @@ The architecture, the flexibility and the out of the box functionalities provide
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzA1MzIxOCwxOTA3NDI3NTQwLDE3MT
+eyJoaXN0b3J5IjpbMTc5MDg5NTUyMCwxOTA3NDI3NTQwLDE3MT
 Y5OTI2MDAsLTQ1NzY0NDE2MiwxMjc5MjMxNDI0LDE1NzQ5MzEx
 MTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMwNSw5Nj
 MzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYz
