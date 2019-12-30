@@ -131,11 +131,11 @@ There are plenty of solutions out there, in the wild, that try to scratch the sa
  - EasyAdminBundle
  - SonataAdminBundle
 
-Compared to Monofony, EasyAdminBundle has a far better documentation and it allows you to start with an easy implementation has an easier implementation, at first. But things start to become a little bit tricky when you want to do more advanced stuff such as filters or customisations. You either end up rewritting a lot of the EasyAdmin elements (controllers, forms etc.) that you start wondering if it wouldn't have been a better idea to implement it from scratch rather that tie yourself to a 3rd party bundle for good. 
+Compared to Monofony, [EasyAdminBundle](https://symfony.com/doc/master/bundles/EasyAdminBundle/index.html) has a far better documentation and it allows you to start with an easy implementation. But things start to become a little bit tricky when you want to do more advanced stuff such as filters or customization. You either end up rewriting a lot of the EasyAdmin elements (controllers, forms etc.) that you start wondering if it wouldn't have been a better idea to implement it from scratch rather that tie yourself to a 3rd party bundle for good. 
 
-Compared to Monofony, SonataAdminBundle feels old and outdated, but that's just me, but that mostly because I knew Sonata long time before I ever heard of Sylius and before Monofony was invented. Both lack the documentation EasyAdmin provides, but their flexibility and extensibility make up to that. If you manage to grasp everything and you are not afraid to push your google skills to the limit. 
+Compared to Monofony, [SonataAdminBundle](https://sonata-project.org/) feels old and outdated, but that's just me, but that mostly because I knew Sonata long time before I ever heard of Sylius and before Monofony was invented. Both lack the documentation EasyAdmin provides, but their flexibility and extensibility make up to that. If you manage to grasp everything and you are not afraid to push your google skills to the limit. 
 
-Monofony might not have that big community behind it, yet, but because it is basically a Sylius without the eCommerce customisation, you can safely rely on that community for help. And that documentation, as well. 
+Monofony might not have that big community behind it, yet, but because it is basically a Sylius without the eCommerce part, you can safely rely on that community for help. And that documentation, as well. 
 
 Monofony, like Sylius, puts a big emphasis on code quality and automated testing. This is something important, especially for a project that might become big enough to matter. And it also helps you learn from others how to easily and properly do programming nowadays, without having to worry about issues that were already tackled. Monofony won't do your work on this end, but it will surely relief some heads aches from your head when it comes to QA. 
 
@@ -151,7 +151,7 @@ The architecture, the flexibility and the out of the box functionalities provide
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDY0NjQyNiwxOTA3NDI3NTQwLDE3MT
+eyJoaXN0b3J5IjpbLTg2MjIwMjA3OSwxOTA3NDI3NTQwLDE3MT
 Y5OTI2MDAsLTQ1NzY0NDE2MiwxMjc5MjMxNDI0LDE1NzQ5MzEx
 MTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMwNSw5Nj
 MzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYz
