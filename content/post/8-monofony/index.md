@@ -14,7 +14,7 @@ tags = ['en']
 {{% toc %}}
 
 
-*Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on Sylius Slack, I wanted to use this whenever someone asked me what is Monofony, why use it, how can I use Sylius (concepts) in my own application; although initially I planned to just translate it to English, I decided to rewrite it a little bit and adapt it to my needs.*
+*Author note: once I saw the [original article](https://afsy.fr/avent/2019/22-monofony-base-sur-la-structure-interne-de-sylius) shared on [Sylius Slack](https://sylius-slackin.herokuapp.com/), I wanted to use this whenever someone asked me what is Monofony, why use it, how can I use Sylius (concepts) in my own application; although initially I planned to just translate it to English, I decided to rewrite it a little bit and adapt it to my needs.*
 
 
 # The itch
@@ -151,10 +151,10 @@ The architecture, the flexibility and the out of the box functionalities provide
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzQyNzU0MCwxNzE2OTkyNjAwLC00NT
-c2NDQxNjIsMTI3OTIzMTQyNCwxNTc0OTMxMTE5LDYzMDA4Mzg4
-OCwxNDA3OTUzOTg1LC0zMTIxNzMzMDUsOTYzMzM4NzgsMTgzND
-Q2OTY1NSwtNTQ1NTA3OTI0LC0xOTAxODg2Mzk5LC0xOTY3MzA0
-OTQzLC0xMjY0MTMzMTIsLTE4NDEwMTk5MDksMTY2Njk2OTM4MF
-19
+eyJoaXN0b3J5IjpbLTg3NzA1MzIxOCwxOTA3NDI3NTQwLDE3MT
+Y5OTI2MDAsLTQ1NzY0NDE2MiwxMjc5MjMxNDI0LDE1NzQ5MzEx
+MTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMwNSw5Nj
+MzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYz
+OTksLTE5NjczMDQ5NDMsLTEyNjQxMzMxMiwtMTg0MTAxOTkwOS
+wxNjY2OTY5MzgwXX0=
 -->
