@@ -64,7 +64,7 @@ Once you created the entities you need, their properties and their relations, yo
 
 When I first learned about Resources, my first question was: wtf is a resource and what's the difference between that and an entity?
 
-Well, if you declare your entity as a Resource, the SyliusResourceBundle will provide you:
+Well, if you declare your entity as a Resource, the [SyliusResourceBundle](https://docs.sylius.com/en/latest/components_and_bundles/bundles/SyliusResourceBundle/index.html) will provide you:
 
  - a factory class to build your entity as you need it, so you don't need to `$entity = new Entity();` everywhere.
  - a repository with basic methods to cover adding, removing, paginating and database retrieval
@@ -79,7 +79,7 @@ This is where Monofony saves you time: the maintainers took the Sylius templates
 
 ## Grid
 
-SyliusGridBundle is a bundle that takes a previously registered Resource and creates a grid where you can:
+[SyliusGridBundle](https://docs.sylius.com/en/latest/components_and_bundles/bundles/SyliusGridBundle/index.html) is a bundle that takes a previously registered Resource and creates a grid where you can:
 
  - list entities by using a custom repository method with built-in pagination
  - filter what entities you show in your list based on complex criteria 
@@ -131,7 +131,7 @@ There are plenty of solutions out there, in the wild, that try to scratch the sa
  - EasyAdminBundle
  - SonataAdminBundle
 
-Compared to Monofony, EasyAdminBundle has a better documentation and it has an easier implementation, at first. But things start to become a little bit tricky when you want to do more advanced stuff such as filters or customisations. You either end up rewritting a lot of the EasyAdmin elements (controllers, forms etc.) that you start wondering if it wouldn't have been a better idea to implement it from scratch rather that tie yourself to a 3rd party bundle for good. 
+Compared to Monofony, EasyAdminBundle has a far better documentation and it allows you to start with an easy implementation has an easier implementation, at first. But things start to become a little bit tricky when you want to do more advanced stuff such as filters or customisations. You either end up rewritting a lot of the EasyAdmin elements (controllers, forms etc.) that you start wondering if it wouldn't have been a better idea to implement it from scratch rather that tie yourself to a 3rd party bundle for good. 
 
 Compared to Monofony, SonataAdminBundle feels old and outdated, but that's just me, but that mostly because I knew Sonata long time before I ever heard of Sylius and before Monofony was invented. Both lack the documentation EasyAdmin provides, but their flexibility and extensibility make up to that. If you manage to grasp everything and you are not afraid to push your google skills to the limit. 
 
@@ -151,7 +151,7 @@ The architecture, the flexibility and the out of the box functionalities provide
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDg5NTUyMCwxOTA3NDI3NTQwLDE3MT
+eyJoaXN0b3J5IjpbLTgyNDY0NjQyNiwxOTA3NDI3NTQwLDE3MT
 Y5OTI2MDAsLTQ1NzY0NDE2MiwxMjc5MjMxNDI0LDE1NzQ5MzEx
 MTksNjMwMDgzODg4LDE0MDc5NTM5ODUsLTMxMjE3MzMwNSw5Nj
 MzMzg3OCwxODM0NDY5NjU1LC01NDU1MDc5MjQsLTE5MDE4ODYz
