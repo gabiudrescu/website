@@ -16,7 +16,9 @@ tags = ['ro']
 # Introducere
 ING susține un „program gratuit de educație financiară destinat persoanelor care doresc să își obțină independență financiară” - [Banometru](https://www.banometru.ro/).
 
-În grupul de pe Facebook, a apărut zilele trecute un post prin care 
+În grupul de pe Facebook, a apărut zilele trecute un post despre „datoriile rele”, iar asta mi-a trezit pofta de blogging. Așa că am zis să folosesc oportunitatea de a-mi relua activitatea pe blogul personal, să nu simt că plătesc degeaba domeniul. 
+
+O să scriu în zilele ce urmează o serie de posturi despre cum am folosit eu cardul de credit de prin 2013 î
 
 # Povestea
 
@@ -118,7 +120,7 @@ Da, am mai luat ulterior și alte amenzi, tot din același motiv :-)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA4MDM2NTgsMTg3MzM4MDI5OCwxNj
-Q5MzI1NTc3LC05NjM1MzU2MTgsLTE1NjY2MDk3NTgsMjU4Nzkx
-ODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEyNF19
+eyJoaXN0b3J5IjpbMTMxMDgxNzA3OSwxODczMzgwMjk4LDE2ND
+kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
+OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
