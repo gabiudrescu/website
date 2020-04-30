@@ -1,6 +1,6 @@
 +++
 title = "[RO] Cardul de credit - partea 1"
-subtitle = "Cum poți folosi cardul de credit pentru a economisi și câștiga bani"
+subtitle = "Lecția de economie după prima amendă de circulație"
 
 date = 2020-04-30
 draft = false
@@ -35,7 +35,9 @@ Următoarea descoperire a fost că într-o lună reușesc să cheltui mai puțin
 Însă cea mai profitabilă descoperire a fost că unele carduri de credit vin la pachet și cu cashback, din care poți câștiga niște sume frumușele dacă îl folosești frecvent (peste 1000 de lei în 5 ani de zile).
 
 # În episodul următor
-Vă povestesc despre cum am folosit eu cashback-ul primit de la cardurile de credit pentru a-mi finanța diverse mofturi, cum am folosit 
+Vă povestesc despre cum am folosit eu cashback-ul primit de la cardurile de credit pentru a-mi finanța diverse mofturi și cum am folosit cardul de credit pentru a-mi construi un fond de urgență.
+
+Bonus: vă arăt și un excel pe care l-am folosit eu ceva vreme pentru a calcula dobânda pe contul de economie. 
 
 # Cum a funcționat cashback-ul pentru mine?
 
@@ -111,7 +113,7 @@ Da, am mai luat ulterior și alte amenzi, tot din același motiv :-)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1Nzg0MTYyLDE4NzMzODAyOTgsMTY0OT
-MyNTU3NywtOTYzNTM1NjE4LC0xNTY2NjA5NzU4LDI1ODc5MTg5
-MiwtMTU5ODA0NjcwNCw3NTY0MDQxMjRdfQ==
+eyJoaXN0b3J5IjpbMTgyNTA4NDM2MywxODczMzgwMjk4LDE2ND
+kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
+OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
