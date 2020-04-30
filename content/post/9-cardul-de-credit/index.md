@@ -2,12 +2,12 @@
 title = "[RO] Cardul de credit"
 subtitle = "Cum poți folosi cardul de credit pentru a economisi și câștiga bani"
 
-date = 2020-12-26
-draft = false
+date = 2020-04-30
+draft = true
 
 authors = ["Gabi Udrescu"]
 
-tags = ['en']
+tags = ['ro']
 +++
 
 
@@ -151,5 +151,5 @@ The architecture, the flexibility and the out of the box functionalities provide
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ5NTYyMTksNzU2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbMTUwMTIyMTc5NCw3NTY0MDQxMjRdfQ==
 -->
