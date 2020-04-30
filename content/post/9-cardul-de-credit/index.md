@@ -95,11 +95,18 @@ La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De 
 # Și totuși, avantajele...
 Eu am privit asta ca pe o plasă de siguranță. În anii trecuți, am considerat că în contextul economic respectiv, dacă banca îmi oferă mie credit atât de ieftin și-mi oferă posibilitatea să-mi construiesc o plasă de siguranță (un salariu în plus tot timpul la dispoziție pentru situații de urgență), atunci asta e o oportunitate pe care vreau s-o exploatez.
 
-Așa am învățat responsabilitatea unor plăți regulate, disciplina financiară de a nu cheltui mai mult decât e bugetat, chiar dacă în cont 
+Așa am învățat responsabilitatea unor plăți regulate, disciplina financiară de a nu cheltui mai mult decât e bugetat, chiar dacă în cont există cash la îndemână, cum să balansezi cheltuielile investiționale cu plata datoriilor pe care acestea le generează, fără să-ți afectezi stilul de viață. 
+
+Overall, eu mă simt (mai) câștigat. 
+
+And that's my 2 cents. 
+
+# În loc de încheiere
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk3NTExOCwxODczMzgwMjk4LDE2ND
+eyJoaXN0b3J5IjpbMTA4NzU1NjcyMiwxODczMzgwMjk4LDE2ND
 kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
 OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
