@@ -82,9 +82,16 @@ Rezultatul la final de an?
 
 33.30 lei 
 
+Găsiți mai jos și Excel-ul pe care vi-l puteți descărca pentru a vă juca cu cifrele să vedeți ce obțineți. 
+
+# Dezavantajele
+
+## Dacă ratezi o plată la bancă...
+Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 3 zile întârziere, 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzQ2MzE1MSwxNjQ5MzI1NTc3LC05Nj
+eyJoaXN0b3J5IjpbMTg3MzM4MDI5OCwxNjQ5MzI1NTc3LC05Nj
 M1MzU2MTgsLTE1NjY2MDk3NTgsMjU4NzkxODkyLC0xNTk4MDQ2
 NzA0LDc1NjQwNDEyNF19
 -->
