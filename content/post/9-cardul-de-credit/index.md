@@ -64,9 +64,20 @@ Dacă economisești 300 de lei în fiecare lună, cu o dobândă lunară de 1% (
 
 ![Not great, not terrible](https://i.imgur.com/KCDWvV2l.jpg)
 
+Notă: dobânda e calculată conform algoritmului ING (probabil e la fel cam peste tot): 
+
+    D=C*%*n/N
+
+    unde:
+    D=dobanda
+    C=soldul contului
+    %=procentul de dobanda aferent tipului de depozit/cont
+    n=numarul efectiv de zile pentru care se calculeaza D
+    N=360
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0MDUxODIyLC05NjM1MzU2MTgsLTE1Nj
-Y2MDk3NTgsMjU4NzkxODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEy
-NF19
+eyJoaXN0b3J5IjpbLTQxODUzOTcyNSwtOTYzNTM1NjE4LC0xNT
+Y2NjA5NzU4LDI1ODc5MTg5MiwtMTU5ODA0NjcwNCw3NTY0MDQx
+MjRdfQ==
 -->
