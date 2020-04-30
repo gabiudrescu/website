@@ -34,6 +34,9 @@ Următoarea descoperire a fost că într-o lună reușesc să cheltui mai puțin
 
 Însă cea mai profitabilă descoperire a fost că unele carduri de credit vin la pachet și cu cashback, din care poți câștiga niște sume frumușele dacă îl folosești frecvent (peste 1000 de lei în 5 ani de zile).
 
+# În episodul următor
+Vă povestesc despre cum am folosit eu cashback-ul primit de la cardurile de credit pentru a-mi finanța diverse mofturi, cum am folosit 
+
 # Cum a funcționat cashback-ul pentru mine?
 
 Prin 2016 mi-am făcut un card de credit co-branded WizzAir Bancpost, care la vremea respectivă avea o ofertă foarte profitabilă: 2% din totalul cheltuielilor efectuate la orice comerciant ți se returna sub formă de puncte pe WizzAir. 
@@ -108,7 +111,7 @@ Da, am mai luat ulterior și alte amenzi, tot din același motiv :-)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAyMzkwMDQsMTg3MzM4MDI5OCwxNj
-Q5MzI1NTc3LC05NjM1MzU2MTgsLTE1NjY2MDk3NTgsMjU4Nzkx
-ODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEyNF19
+eyJoaXN0b3J5IjpbNjI1Nzg0MTYyLDE4NzMzODAyOTgsMTY0OT
+MyNTU3NywtOTYzNTM1NjE4LC0xNTY2NjA5NzU4LDI1ODc5MTg5
+MiwtMTU5ODA0NjcwNCw3NTY0MDQxMjRdfQ==
 -->
