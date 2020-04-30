@@ -62,8 +62,11 @@ Să luăm un venit de 3000 de lei lunar, împărțit în 2:
 
 Dacă economisești 300 de lei în fiecare lună, cu o dobândă lunară de 1% (dobânda curentă de la ING Conturi economii în momentul de față, la finalul a 12 luni vei avea o sumă de 3600 de lei econosiți de tine, și vreo 15.04 lei din dobândă (16.55 lei minus 10% impozit pe venit). 
 
+![Not great, not terrible](https://i.imgur.com/KCDWvV2l.jpg)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNT
-g3OTE4OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbNDY0MDUxODIyLC05NjM1MzU2MTgsLTE1Nj
+Y2MDk3NTgsMjU4NzkxODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEy
+NF19
 -->
