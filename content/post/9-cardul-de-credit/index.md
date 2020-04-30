@@ -58,12 +58,12 @@ Să luăm un venit de 3000 de lei lunar, împărțit în 2:
 
 - 1000 de lei cheltuieli fixe (ex. chirie)
 - 1700 de lei cheltuieli variabile (mâncare, transport, educație, distracție etc.)
-- 300 de lei pentr
+- 300 de lei pentru economii și zile negre
 
-Dacă 
+Dacă economisești 300 de lei în fiecare lună, cu o dobândă lunară de 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTQyNjc5NywtMTU2NjYwOTc1OCwyNT
-g3OTE4OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbLTE0OTU4OTE1MDAsLTE1NjY2MDk3NTgsMj
+U4NzkxODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEyNF19
 -->
