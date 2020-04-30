@@ -13,7 +13,7 @@ tags = ['ro']
 
 {{% toc %}}
 
-Continuarea [de aici]({{< ref "/post/10-cardul-de-credit/index.md" >}}).
+Continuarea [de aici]({{< ref "post/10-cardul-de-credit/index.md" >}}).
 
 # Cum a funcționat cashback-ul pentru mine?
 
@@ -97,5 +97,6 @@ Prin exercițiul de mai sus, am încercat să scot ceva bun din ceva ce la vreme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNzk0NjEzLDE0NTc1ODg2MDJdfQ==
+eyJoaXN0b3J5IjpbLTE3NDEwODQ4NDgsOTAxNzk0NjEzLDE0NT
+c1ODg2MDJdfQ==
 -->
