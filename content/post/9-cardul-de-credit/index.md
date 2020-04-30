@@ -35,10 +35,10 @@ Următoarea descoperire a fost că într-o lună reușesc să cheltui mai puțin
 
 Însă cea mai profitabilă descoperire a fost că unele carduri de credit vin la pachet și cu cashback, din care poți câștiga niște sume frumușele dacă îl folosești frecvent (peste 1000 de lei în 5 ani de zile).
 
-# Idei pentru vio
+# Cum funcționeaz 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk4NjY5MjcsLTE1OTgwNDY3MDQsNz
-U2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbMTQxMzM0NzA0NCwtMTU5ODA0NjcwNCw3NT
+Y0MDQxMjRdfQ==
 -->
