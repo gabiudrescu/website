@@ -2,8 +2,8 @@
 title = "[RO] Cardul de credit - partea 2"
 subtitle = "Cashback și conturi de economii"
 
-date = 2020-04-30
-draft = false
+date = 2020-05-04
+draft = true
 
 authors = ["Gabi Udrescu"]
 
@@ -95,6 +95,6 @@ Prin exercițiul de mai sus, am încercat să scot ceva bun din ceva ce la vreme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxOTEyNzQsLTE3NDEwODQ4NDgsOTAxNz
-k0NjEzLDE0NTc1ODg2MDJdfQ==
+eyJoaXN0b3J5IjpbLTEzNTY5NTQyMzMsMzUxOTEyNzQsLTE3ND
+EwODQ4NDgsOTAxNzk0NjEzLDE0NTc1ODg2MDJdfQ==
 -->
