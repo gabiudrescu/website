@@ -90,11 +90,14 @@ Găsiți mai jos și Excel-ul pe care vi-l puteți descărca pentru a vă juca c
 Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 2 zile întârziere, banca mi-a perceput o dobândă de 5.5 lei. Atât m-a costat faptul că mi-am adus aminte duminică noapte că vineri trebuia să fac o plată și am uitat să o fac.
 
 ## N-o să te îmbogățești din asta
-La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De exemplu, la StarBT e 25 de lei pe an + 20 de lei emiterea. 
+La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De exemplu, la StarBT e 25 de lei pe an + 20 de lei emiterea. Sau inflația. 
+
+# Și totuși, avantajele...
+Eu am privit asta ca pe o plasă de siguranță. În anii trecuți, am considerat că în contextul economic respectiv, dacă banca îmi oferă mie credit atât de ieftin și-mi oferă
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzI3MzA2LDE4NzMzODAyOTgsMTY0OT
-MyNTU3NywtOTYzNTM1NjE4LC0xNTY2NjA5NzU4LDI1ODc5MTg5
-MiwtMTU5ODA0NjcwNCw3NTY0MDQxMjRdfQ==
+eyJoaXN0b3J5IjpbLTExMTYwNTIzODEsMTg3MzM4MDI5OCwxNj
+Q5MzI1NTc3LC05NjM1MzU2MTgsLTE1NjY2MDk3NTgsMjU4Nzkx
+ODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEyNF19
 -->
