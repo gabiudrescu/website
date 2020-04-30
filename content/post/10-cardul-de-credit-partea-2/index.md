@@ -66,6 +66,7 @@ Rezultatul la final de an?
 33.30 lei 
 
 Găsiți mai jos și Excel-ul pe care vi-l puteți descărca pentru a vă juca cu cifrele să vedeți ce obțineți. Sper că  n-am greșit la calcule. 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7JZWvn-2YEyW6q6NO5qkNavJIZUDBDEpduUcbjnqJerQJSgiwrFBY3XAIqqJWllosJX0sc-ocsNdo/pubhtml?widget=true&amp;headers=false"></iframe>
 
 # Dezavantajele
 
@@ -95,5 +96,5 @@ Prin exercițiul de mai sus, am încercat să scot ceva bun din ceva ce la vreme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzU4ODYwMl19
+eyJoaXN0b3J5IjpbNjYzNjY5MTA1LDE0NTc1ODg2MDJdfQ==
 -->
