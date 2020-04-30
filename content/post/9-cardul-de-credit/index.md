@@ -1,8 +1,8 @@
 +++
-title = "[EN] Monofony"
-subtitle = "A Symfony project based on the internal structure of Sylius"
+title = "[RO] Cardul de credit"
+subtitle = "Cum poți folosi cardul de credit pentru a economisi și câștiga bani"
 
-date = 2019-12-26
+date = 2020-12-26
 draft = false
 
 authors = ["Gabi Udrescu"]
@@ -151,5 +151,5 @@ The architecture, the flexibility and the out of the box functionalities provide
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbLTExNzQ5NTYyMTksNzU2NDA0MTI0XX0=
 -->
