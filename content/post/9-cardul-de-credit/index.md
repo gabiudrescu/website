@@ -21,7 +21,7 @@ Am luat amendă fix banii de benzină pentru weekendul de la munte ce urma.
 
 Eh, ăla a fost un moment care a generat un declic în mintea mea și m-a făcut să realizez că o cheltuială neprevăzută (ca o amendă de circulație, de exemplu) îmi poate da peste cap planurile.
 
-# Soluția
+# Revelația
 
 Ca să nu mai ajung în situația asta, mi-am făcut un card de credit și am început să-l folosesc zi de zi, din 2 motive:
 
@@ -58,6 +58,6 @@ Partea proastă e că între timp Bancpost a fost preluată de Banca Transilvani
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NzkxODkyLC0xNTk4MDQ2NzA0LDc1Nj
-QwNDEyNF19
+eyJoaXN0b3J5IjpbLTE1NjY2MDk3NTgsMjU4NzkxODkyLC0xNT
+k4MDQ2NzA0LDc1NjQwNDEyNF19
 -->
