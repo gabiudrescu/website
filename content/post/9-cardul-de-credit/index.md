@@ -44,10 +44,18 @@ Un calcul simplu, plecând de la un buget lunar de cheltuieli de 2000 de lei:
  - 2000 lei * 2% = 40 de lei pe lună sub formă de puncte
  - 40 lei * 12 luni = 480 de lei
 
-Echivalentul unui bilet de avion într-o destian
+Echivalentul unui bilet de avion într-o destinație europeană, într-un city break. 
+
+Sau, în cazul în care foloseai cardul la WizzAir, primeai 4%. Deci, dublu. 
+
+Acum, întrebarea ar fi: cum ajung eu să valorific acele puncte altfel decât antrenând cumpărături și mai multe? Simplu: oferind discount-uri prietenilor care călătoresc.
+
+Vrei să zbori la Londra și zborul costă 1000 de lei? Îți plătesc eu 480 de lei și tu-mi dai cash doar 400 de lei. Câștigi o reducere de 80 de lei fără să faci mare lucru. 
+
+Partea proastă e că între timp Bancpost a fost preluat de Banca Transilvania și 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTI1ODE3LC0xNTk4MDQ2NzA0LDc1Nj
-QwNDEyNF19
+eyJoaXN0b3J5IjpbLTE1MjkwNjA3NDAsLTE1OTgwNDY3MDQsNz
+U2NDA0MTI0XX0=
 -->
