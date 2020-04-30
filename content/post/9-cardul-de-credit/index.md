@@ -13,6 +13,11 @@ tags = ['ro']
 
 {{% toc %}}
 
+# Introducere
+ING susține un „program gratuit de educație financiară destinat persoanelor care doresc să își obțină independență financiară” - [Banometru](https://www.banometru.ro/).
+
+În grupul de pe Facebook, a apărut zilele trecute un post prin care 
+
 # Povestea
 
 Povestea mea a început în prima săptămână când am avut propria mea mașină. Am luat o amendă joi seară pentru viteză (70km/h într-o zonă de 50km/h, cei din București știu podul de peste Bd. Barbu Văcărescu, din Pipera).
@@ -113,7 +118,7 @@ Da, am mai luat ulterior și alte amenzi, tot din același motiv :-)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTA4NDM2MywxODczMzgwMjk4LDE2ND
-kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
-OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbLTIwMDA4MDM2NTgsMTg3MzM4MDI5OCwxNj
+Q5MzI1NTc3LC05NjM1MzU2MTgsLTE1NjY2MDk3NTgsMjU4Nzkx
+ODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEyNF19
 -->
