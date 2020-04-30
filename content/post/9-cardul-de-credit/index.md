@@ -52,10 +52,12 @@ Acum, întrebarea ar fi: cum ajung eu să valorific acele puncte altfel decât a
 
 Vrei să zbori la Londra și zborul costă 1000 de lei? Îți plătesc eu 480 de lei și tu-mi dai cash doar 400 de lei. Câștigi o reducere de 80 de lei fără să faci mare lucru. 
 
-Partea proastă e că între timp Bancpost a fost preluat de Banca Transilvania și 
+Partea proastă e că între timp Bancpost a fost preluat de Banca Transilvania și acest card era în competiție directă cu cardul cobranded de la Tarom, care avea o ofertă comercială ceva mai puțin atractivă (pentru mine). Așa că au decis să-l închidă pe cel cu Wizz (abordare naționalistă). 
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkwNjA3NDAsLTE1OTgwNDY3MDQsNz
-U2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbMjAwODU0NDY4NSwtMTU5ODA0NjcwNCw3NT
+Y0MDQxMjRdfQ==
 -->
