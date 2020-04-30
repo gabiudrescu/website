@@ -53,10 +53,17 @@ Vrei să zbori la Londra și zborul costă 1000 de lei? Îți plătesc eu 480 de
 
 Partea proastă e că între timp Bancpost a fost preluată de Banca Transilvania și acest card era în competiție directă cu cardul cobranded de la Tarom. Așa că au decis să-l închidă pe cel cu Wizz (abordare naționalistă). 
 
+# Dobânda
+Să luăm un venit de 3000 de lei lunar, împărțit în 2:
 
+- 1000 de lei cheltuieli fixe (ex. chirie)
+- 1700 de lei cheltuieli variabile (mâncare, transport, educație, distracție etc.)
+- 300 de lei pentr
+
+Dacă 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjc1NzkwNCwtMTU2NjYwOTc1OCwyNT
+eyJoaXN0b3J5IjpbMTQzMTQyNjc5NywtMTU2NjYwOTc1OCwyNT
 g3OTE4OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
