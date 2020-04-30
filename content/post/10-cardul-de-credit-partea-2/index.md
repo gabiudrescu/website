@@ -45,7 +45,7 @@ Să luăm un venit de 3000 de lei lunar, împărțit în 3:
 
 Dacă economisești 300 de lei în fiecare lună, cu o dobândă lunară de 1% (dobânda curentă de la ING Conturi economii în momentul de față, la finalul a 12 luni vei avea o sumă de 3600 de lei econosiți de tine, și vreo 17.78 lei din dobândă (luând în calcul deja 10% impozit pe venitul din dobânzi). 
 
-![Not great, not terrible](https://i.imgur.com/KCDWvV2l.jpg)
+![Not great, not terrible](https://i.imgur.com/B3cQCOT.jpg)
 
 Notă: dobânda e calculată conform algoritmului ING (probabil e la fel cam peste tot): 
 
@@ -65,9 +65,11 @@ Rezultatul la final de an?
 
 33.30 lei 
 
-Găsiți mai jos și Excel-ul pe care vi-l puteți descărca pentru a vă juca cu cifrele să vedeți ce obțineți. 
+Găsiți mai jos și Excel-ul pe care vi-l puteți descărca pentru a vă juca cu cifrele să vedeți ce obțineți. Sper că  n-am greșit la calcule. 
 
 # Dezavantajele
+
+Sună bine. Doar că sunt câteva mențiuni importante de făcut:
 
 ## Dacă ratezi o plată la bancă...
 Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 2 zile întârziere, banca mi-a perceput o dobândă de 5.5 lei. Atât m-a costat faptul că mi-am adus aminte duminică noapte că vineri trebuia să fac o plată.
@@ -91,5 +93,5 @@ Da, am mai luat ulterior și alte amenzi, tot din același motiv :-)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDUwNDkwNF19
+eyJoaXN0b3J5IjpbMTI2NjQ3NzYxMF19
 -->
