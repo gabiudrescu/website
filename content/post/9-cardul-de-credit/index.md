@@ -29,9 +29,9 @@ Apoi am descoperit că în loc să țin banii în contul curent pot să-i țin �
 
 Următoarea descoperire a fost că într-o lună reușesc să cheltui mai puțin decât câștig, iar diferența rămâne în contul de economii, crescând exponențial (prin dobânda acumulată).
 
-Însă cea mai profitabilă descoperire a fost că unele caapoi am mai descoperit și faptul că acel card de credit vine și cu cashback, din care poți câștiga niște sume frumușele dacă îl folosești frecvent (peste 1000 de lei în 5 ani de zile).
+Însă cea mai profitabilă descoperire a fost că unele carduri de credit vin la pachet și cu cashback, din care poți câștiga niște sume frumușele dacă îl folosești frecvent (peste 1000 de lei în 5 ani de zile).
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTgzNDk4Miw3NTY0MDQxMjRdfQ==
+eyJoaXN0b3J5IjpbMTkyMDE5NjMxNiw3NTY0MDQxMjRdfQ==
 -->
