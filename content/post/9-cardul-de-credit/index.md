@@ -68,16 +68,19 @@ Notă: dobânda e calculată conform algoritmului ING (probabil e la fel cam pes
 
     D=C*%*n/N
 
-    unde:
-    D=dobanda
-    C=soldul contului
-    %=procentul de dobanda aferent tipului de depozit/cont
-    n=numarul efectiv de zile pentru care se calculeaza D
-    N=360
+unde:
+
+ - D=dobanda
+ - C=soldul contului
+ - %=procentul de dobanda aferent tipului de depozit/cont
+ - n=numarul efectiv de zile pentru care se calculeaza D
+ - N=360
+
+Acum, să ne gândim că pe 1 ianuarie vrem să începem să folosim acest mod de a 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODUzOTcyNSwtOTYzNTM1NjE4LC0xNT
+eyJoaXN0b3J5IjpbMTg3NDE1MTI5NywtOTYzNTM1NjE4LC0xNT
 Y2NjA5NzU4LDI1ODc5MTg5MiwtMTU5ODA0NjcwNCw3NTY0MDQx
 MjRdfQ==
 -->
