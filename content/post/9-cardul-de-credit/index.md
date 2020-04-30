@@ -13,13 +13,13 @@ tags = ['ro']
 
 {{% toc %}}
 
-Povestea mea a început în prima săptămână când am avut propria mea mașină. am luat o amendă joi seară pentru viteză (70km/h într-o zonă de 50km/h, cei din București știu Podul de peste Bd. Barbu Văcărescu, din Pipera).
+Povestea mea a început în prima săptămână când am avut propria mea mașină. Am luat o amendă joi seară pentru viteză (70km/h într-o zonă de 50km/h, cei din București știu Podul de peste Bd. Barbu Văcărescu, din Pipera).
 
 Am luat amendă fix banii de benzină pentru weekendul de la munte ce urma (de 1 mai, care era vineri).
 
 Eh, ăla a fost un moment care a generat un declic în mintea mea și m-a făcut să realizez că o cheltuială neprevăzută (ca o amendă de circulație, de exemplu) îmi poate da peste cap planurile.
 
-ca să nu mai ajung în situația asta, mi-am făcut un card de credit și am început să-l folosesc zi de zi din 2 motive:
+Ca să nu mai ajung în situația asta, mi-am făcut un card de credit și am început să-l folosesc zi de zi din 2 motive:
 
 - să am o evidență lunară a tuturor cheltuielilor pe care să nu trebuiască să o fac eu (ci banca, prin aplicația de internet banking și extrasul bancar)
 
@@ -33,5 +33,5 @@ apoi am mai descoperit și faptul că acel card de credit vine și cu cashback, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI1NTEwODksNzU2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbODIyMzkwMDMxLDc1NjQwNDEyNF19
 -->
