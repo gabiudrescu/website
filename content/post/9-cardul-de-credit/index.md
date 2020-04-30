@@ -93,11 +93,13 @@ Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de
 La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De exemplu, la StarBT e 25 de lei pe an + 20 de lei emiterea. Sau inflația. 
 
 # Și totuși, avantajele...
-Eu am privit asta ca pe o plasă de siguranță. În anii trecuți, am considerat că în contextul economic respectiv, dacă banca îmi oferă mie credit atât de ieftin și-mi oferă
+Eu am privit asta ca pe o plasă de siguranță. În anii trecuți, am considerat că în contextul economic respectiv, dacă banca îmi oferă mie credit atât de ieftin și-mi oferă posibilitatea să-mi construiesc o plasă de siguranță (un salariu în plus tot timpul la dispoziție pentru situații de urgență), atunci asta e o oportunitate pe care vreau s-o exploatez.
+
+Așa am învățat responsabilitatea unor plăți regulate, disciplina financiară de a nu cheltui mai mult decât e bugetat, chiar dacă în cont 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYwNTIzODEsMTg3MzM4MDI5OCwxNj
-Q5MzI1NTc3LC05NjM1MzU2MTgsLTE1NjY2MDk3NTgsMjU4Nzkx
-ODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEyNF19
+eyJoaXN0b3J5IjpbLTE1Mjk3NTExOCwxODczMzgwMjk4LDE2ND
+kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
+OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
