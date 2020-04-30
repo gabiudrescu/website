@@ -87,11 +87,14 @@ Găsiți mai jos și Excel-ul pe care vi-l puteți descărca pentru a vă juca c
 # Dezavantajele
 
 ## Dacă ratezi o plată la bancă...
-Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 3 zile întârziere, 
+Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 2 zile întârziere, banca mi-a perceput o dobândă de 5.5 lei. Atât m-a costat faptul că mi-am adus aminte duminică noapte că vineri trebuia să fac o plată și am uitat să o fac.
+
+## N-o să te îmbogățești din asta
+La tot calculul de mai sus nu am cuantificat și costul unui card de credit. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzM4MDI5OCwxNjQ5MzI1NTc3LC05Nj
-M1MzU2MTgsLTE1NjY2MDk3NTgsMjU4NzkxODkyLC0xNTk4MDQ2
-NzA0LDc1NjQwNDEyNF19
+eyJoaXN0b3J5IjpbMTI5NDA4NDMwNywxODczMzgwMjk4LDE2ND
+kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
+OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
