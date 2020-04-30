@@ -75,12 +75,14 @@ Sună bine. Doar că sunt câteva mențiuni importante de făcut:
 Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 2 zile întârziere, banca mi-a perceput o dobândă de 5.5 lei. Atât m-a costat faptul că mi-am adus aminte duminică noapte că vineri trebuia să fac o plată.
 
 ## N-o să te îmbogățești din asta
-La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De exemplu, la StarBT e 25 de lei pe an + 20 de lei emiterea. Sau inflația. 
+La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De exemplu, la StarBT e 25 de lei pe an + 20 de lei emiterea.
+
+Sau inflația. 
 
 # Și totuși, avantajele...
-Eu am privit asta ca pe o plasă de siguranță. În anii trecuți, am considerat că în contextul economic respectiv, dacă banca îmi oferă mie credit atât de ieftin și-mi oferă posibilitatea să-mi construiesc o plasă de siguranță (un salariu în plus tot timpul la dispoziție pentru situații de urgență), atunci asta e o oportunitate pe care vreau s-o exploatez.
+Eu am privit asta ca pe o plasă de siguranță. În anii trecuți (2013-2019), am considerat că în contextul economic respectiv, dacă banca îmi oferă mie credit atât de ieftin și-mi oferă posibilitatea să-mi construiesc o plasă de siguranță (un salariu în plus tot timpul la dispoziție pentru situații de urgență), atunci asta e o oportunitate pe care vreau s-o exploatez.
 
-Așa am învățat responsabilitatea unor plăți regulate, disciplina financiară de a nu cheltui mai mult decât e bugetat, chiar dacă în cont există cash la îndemână, cum să balansezi cheltuielile investiționale cu plata datoriilor pe care acestea le generează, fără să-ți afectezi stilul de viață. 
+Așa am învățat responsabilitatea unor plăți regulate, disciplina financiară de a nu cheltui mai mult decât e bugetat, chiar dacă în cont există cash la îndemână, cum să balansezi cheltuielile investiționale (cumpărat bicicletă, diverse city breaks, trotinetă electrică sau robot-aspirator) cu plata datoriilor pe care acestea le generează, fără să-ți afectezi stilul de viață. 
 
 Overall, eu mă simt (mai) câștigat. 
 
@@ -93,5 +95,5 @@ Da, am mai luat ulterior și alte amenzi, tot din același motiv :-)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjQ3NzYxMF19
+eyJoaXN0b3J5IjpbMTM4NjMxMDY0XX0=
 -->
