@@ -39,10 +39,10 @@ Următoarea descoperire a fost că într-o lună reușesc să cheltui mai puțin
 
 Prin 2016 mi-am făcut un card de credit co-branded WizzAir Bancpost, care la vremea respectivă avea o ofertă foarte profitabilă: 2% din totalul cheltuielilor efectuate la orice comerciant ți se returna sub formă de puncte pe WizzAir. 
 
-
+n 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NjQyMDAwLC0xNTk4MDQ2NzA0LDc1Nj
-QwNDEyNF19
+eyJoaXN0b3J5IjpbLTE0MTMwMTY2NzQsLTE1OTgwNDY3MDQsNz
+U2NDA0MTI0XX0=
 -->
