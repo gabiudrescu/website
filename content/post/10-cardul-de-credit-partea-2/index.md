@@ -13,7 +13,7 @@ tags = ['ro']
 
 {{% toc %}}
 
-Continuarea de aici. 
+Continuarea [de aici]({{< ref "/post/10-cardul-de-credit/index.md" >}}).
 
 # Cum a funcționat cashback-ul pentru mine?
 
@@ -21,8 +21,8 @@ Prin 2016 mi-am făcut un card de credit co-branded WizzAir Bancpost, care la vr
 
 Un calcul simplu, plecând de la un buget lunar de cheltuieli de 2000 de lei:
 
- - 2000 lei * 2% = 40 de lei pe lună sub formă de puncte
- - 40 lei * 12 luni = 480 de lei
+ - 1700 lei * 2% = 34 de lei pe lună sub formă de puncte
+ - 34 lei * 12 luni = 408 de lei
 
 Echivalentul unui bilet de avion într-o destinație europeană, într-un city break. 
 
@@ -30,7 +30,7 @@ Sau, în cazul în care foloseai cardul la WizzAir, primeai 4%. Deci, dublu.
 
 Acum, întrebarea ar fi: cum ajung eu să valorific acele puncte altfel decât antrenând cumpărături și mai multe? Simplu: oferind discount-uri prietenilor care călătoresc.
 
-Vrei să zbori la Londra și zborul costă 1000 de lei? Îți plătesc eu 480 de lei și tu-mi dai cash doar 400 de lei. Câștigi o reducere de 80 de lei fără să faci mare lucru. 
+Vrei să zbori la Londra și zborul costă 1000 de lei? Îți plătesc eu 408 de lei și tu-mi dai cash doar 350 de lei. Câștigi o reducere de 58 de lei fără să faci mare lucru. 
 
 Partea proastă e că între timp Bancpost a fost preluată de Banca Transilvania și acest card era în competiție directă cu cardul cobranded de la Tarom. Așa că au decis să-l închidă pe cel cu Wizz (abordare naționalistă). 
 
@@ -89,5 +89,5 @@ Da, am mai luat ulterior și alte amenzi, tot din același motiv :-)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk2NTU5MDJdfQ==
+eyJoaXN0b3J5IjpbLTcyNTgwMjE2OF19
 -->
