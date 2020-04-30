@@ -76,11 +76,15 @@ unde:
  - n=numarul efectiv de zile pentru care se calculeaza D
  - N=360
 
-Acum, să ne gândim că pe 1 ianuarie vrem să începem să folosim acest mod de a 
+Acum, să ne gândim că pe 1 ianuarie vrem să începem să folosim cardul de credit așa cum povesteam eu mai sus. Luăm salariul pe 1 ianuarie și, în loc să începem să-l cheltuim, îl trecem în contul de economii și-l lăsăm acolo până pe 15 februarie, când vine scadența extrasului cardului de credit. 
+
+Rezultatul la final de an?
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDE1MTI5NywtOTYzNTM1NjE4LC0xNT
+eyJoaXN0b3J5IjpbMTY0OTMyNTU3NywtOTYzNTM1NjE4LC0xNT
 Y2NjA5NzU4LDI1ODc5MTg5MiwtMTU5ODA0NjcwNCw3NTY0MDQx
 MjRdfQ==
 -->
