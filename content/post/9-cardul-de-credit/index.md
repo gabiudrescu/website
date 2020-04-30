@@ -26,7 +26,6 @@ Eh, ăla a fost un moment care a generat un declic în mintea mea și m-a făcut
 Ca să nu mai ajung în situația asta, mi-am făcut un card de credit și am început să-l folosesc zi de zi, din 2 motive:
 
 - să am o evidență lunară a tuturor cheltuielilor pe care să nu trebuiască să o fac eu (ci banca, prin aplicația de internet banking și extrasul bancar)
-
 - păstrez în contul curent salariul întreg, pe tot parcursul lunii, ca o rezervă de cash
 
 Apoi am descoperit că în loc să țin banii în contul curent pot să-i țin în contul de economii, cu o dobândă (modică).
@@ -58,6 +57,6 @@ Partea proastă e că între timp Bancpost a fost preluată de Banca Transilvani
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY2MDk3NTgsMjU4NzkxODkyLC0xNT
-k4MDQ2NzA0LDc1NjQwNDEyNF19
+eyJoaXN0b3J5IjpbMTQwNjc1NzkwNCwtMTU2NjYwOTc1OCwyNT
+g3OTE4OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
