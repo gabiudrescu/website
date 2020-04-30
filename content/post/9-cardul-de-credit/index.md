@@ -13,6 +13,8 @@ tags = ['ro']
 
 {{% toc %}}
 
+# Povestea
+
 Povestea mea a început în prima săptămână când am avut propria mea mașină. Am luat o amendă joi seară pentru viteză (70km/h într-o zonă de 50km/h, cei din București știu Podul de peste Bd. Barbu Văcărescu, din Pipera).
 
 Am luat amendă fix banii de benzină pentru weekendul de la munte ce urma (de 1 mai, care era vineri).
@@ -33,5 +35,5 @@ Următoarea descoperire a fost că într-o lună reușesc să cheltui mai puțin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDE5NjMxNiw3NTY0MDQxMjRdfQ==
+eyJoaXN0b3J5IjpbLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
