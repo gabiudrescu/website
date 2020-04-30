@@ -60,7 +60,7 @@ Să luăm un venit de 3000 de lei lunar, împărțit în 2:
 - 1700 de lei cheltuieli variabile (mâncare, transport, educație, distracție etc.)
 - 300 de lei pentru economii și zile negre
 
-Dacă economisești 300 de lei în fiecare lună, cu o dobândă lunară de 1% (dobânda curentă de la ING Conturi economii în momentul de față, la finalul a 12 luni vei avea o sumă de 3600 de lei econosiți de tine, și vreo 15.04 lei din dobândă (16.55 lei minus 10% impozit pe venit). 
+Dacă economisești 300 de lei în fiecare lună, cu o dobândă lunară de 1% (dobânda curentă de la ING Conturi economii în momentul de față, la finalul a 12 luni vei avea o sumă de 3600 de lei econosiți de tine, și vreo 17.78 lei din dobândă (luând în calcul deja 10% impozit pe venitul din dobânzi). 
 
 ![Not great, not terrible](https://i.imgur.com/KCDWvV2l.jpg)
 
@@ -80,11 +80,11 @@ Acum, să ne gândim că pe 1 ianuarie vrem să începem să folosim cardul de c
 
 Rezultatul la final de an?
 
-
+33.30 lei 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTMyNTU3NywtOTYzNTM1NjE4LC0xNT
-Y2NjA5NzU4LDI1ODc5MTg5MiwtMTU5ODA0NjcwNCw3NTY0MDQx
-MjRdfQ==
+eyJoaXN0b3J5IjpbMTM1NzQ2MzE1MSwxNjQ5MzI1NTc3LC05Nj
+M1MzU2MTgsLTE1NjY2MDk3NTgsMjU4NzkxODkyLC0xNTk4MDQ2
+NzA0LDc1NjQwNDEyNF19
 -->
