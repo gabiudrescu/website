@@ -1,5 +1,5 @@
 +++
-title = "[RO] Cardul de credit"
+title = "[RO] Cardul de credit - partea 1"
 subtitle = "Cum poți folosi cardul de credit pentru a economisi și câștiga bani"
 
 date = 2020-04-30
@@ -102,11 +102,13 @@ Overall, eu mă simt (mai) câștigat.
 And that's my 2 cents. 
 
 # În loc de încheiere
-Prin exercițiul de mai sus, am încercat să scot ceva bun din ceva ce la vremea respectivă mi s-a părut ceva rău. Nimănui nu-i place să dea bani pe amenzi, sunt sigur de asta. Însă am luat-o ca pe o lecție, d
+Prin exercițiul de mai sus, am încercat să scot ceva bun din ceva ce la vremea respectivă mi s-a părut ceva rău. Nimănui nu-i place să dea bani pe amenzi, sunt sigur de asta. Însă am luat-o ca pe o lecție, din mai multe puncte de vedere și, cred eu, am scos ceva bun din asta.
+
+Da, am mai luat ulterior și alte amenzi, tot din același motiv :-) 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTc5NDYwNCwxODczMzgwMjk4LDE2ND
-kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
-OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
+eyJoaXN0b3J5IjpbLTEyNDAyMzkwMDQsMTg3MzM4MDI5OCwxNj
+Q5MzI1NTc3LC05NjM1MzU2MTgsLTE1NjY2MDk3NTgsMjU4Nzkx
+ODkyLC0xNTk4MDQ2NzA0LDc1NjQwNDEyNF19
 -->
