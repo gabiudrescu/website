@@ -87,7 +87,7 @@ Găsiți mai jos și Excel-ul pe care vi-l puteți descărca pentru a vă juca c
 # Dezavantajele
 
 ## Dacă ratezi o plată la bancă...
-Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 2 zile întârziere, banca mi-a perceput o dobândă de 5.5 lei. Atât m-a costat faptul că mi-am adus aminte duminică noapte că vineri trebuia să fac o plată și am uitat să o fac.
+Pierzi tot ce-ai câștigat într-un an de zile. De exemplu, mie la o datorie de 1500 de lei, pentru 2 zile întârziere, banca mi-a perceput o dobândă de 5.5 lei. Atât m-a costat faptul că mi-am adus aminte duminică noapte că vineri trebuia să fac o plată.
 
 ## N-o să te îmbogățești din asta
 La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De exemplu, la StarBT e 25 de lei pe an + 20 de lei emiterea. Sau inflația. 
@@ -102,11 +102,11 @@ Overall, eu mă simt (mai) câștigat.
 And that's my 2 cents. 
 
 # În loc de încheiere
-
+Prin exercițiul de mai sus, am încercat să scot ceva bun din ceva ce la vremea respectivă mi s-a părut ceva rău. Nimănui nu-i place să dea bani pe amenzi, sunt sigur de asta. Însă am luat-o ca pe o lecție, d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzU1NjcyMiwxODczMzgwMjk4LDE2ND
+eyJoaXN0b3J5IjpbMjAwMTc5NDYwNCwxODczMzgwMjk4LDE2ND
 kzMjU1NzcsLTk2MzUzNTYxOCwtMTU2NjYwOTc1OCwyNTg3OTE4
 OTIsLTE1OTgwNDY3MDQsNzU2NDA0MTI0XX0=
 -->
