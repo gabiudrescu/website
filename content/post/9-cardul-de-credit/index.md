@@ -46,6 +46,8 @@ Vă povestesc despre cum am folosit eu cashback-ul primit de la cardurile de cre
 
 Bonus: vă arăt și un excel pe care l-am folosit eu ceva vreme pentru a calcula dobânda pe contul de economie. 
 
+[Vezi continuarea aici.]({{< ref "/post/10-cardul-de-credit-partea-2/index.md" >}})
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg5ODU3OTA5NCwxODczMzgwMjk4LDE2ND

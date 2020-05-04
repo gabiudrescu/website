@@ -3,7 +3,7 @@ title = "[RO] Cardul de credit - partea 2"
 subtitle = "Cashback și conturi de economii"
 
 date = 2020-05-04
-draft = true
+draft = false
 
 authors = ["Gabi Udrescu"]
 
@@ -12,6 +12,8 @@ tags = ['ro']
 
 
 {{% toc %}}
+
+[Vezi prima parte aici.]({{< ref "/post/9-cardul-de-credit/index.md" >}})
 
 # Cum a funcționat cashback-ul pentru mine?
 
@@ -33,6 +35,7 @@ Vrei să zbori la Londra și zborul costă 1000 de lei? Îți plătesc eu 408 de
 Partea proastă e că între timp Bancpost a fost preluată de Banca Transilvania și acest card era în competiție directă cu cardul cobranded de la Tarom. Așa că au decis să-l închidă pe cel cu Wizz (abordare naționalistă). 
 
 # Dobânda
+
 Vorbeam în articolul anterior despre faptul că am ajuns să-mi țin salariul în contul de economii și să folosesc pentru cheltuieli curente cardul de credit. 
 
 Să luăm un venit de 3000 de lei lunar, împărțit în 3:
@@ -80,6 +83,7 @@ La tot calculul de mai sus nu am cuantificat și costul unui card de credit. De 
 Sau inflația. 
 
 # Și totuși, avantajele...
+
 Eu am privit asta ca pe o plasă de siguranță. În anii trecuți (2013-2019), am considerat că în contextul economic respectiv, dacă banca îmi oferă mie credit atât de ieftin și-mi oferă posibilitatea să-mi construiesc o plasă de siguranță (un salariu în plus tot timpul la dispoziție pentru situații de urgență), atunci asta e o oportunitate pe care vreau s-o exploatez.
 
 Așa am învățat responsabilitatea unor plăți regulate, disciplina financiară de a nu cheltui mai mult decât e bugetat, chiar dacă în cont există cash la îndemână, cum să balansezi cheltuielile investiționale (cumpărat bicicletă, diverse city breaks, trotinetă electrică sau robot-aspirator) cu plata datoriilor pe care acestea le generează, fără să-ți afectezi stilul de viață. 
@@ -89,6 +93,7 @@ Overall, eu mă simt (mai) câștigat.
 And that's my 2 cents. 
 
 # În loc de încheiere
+
 Prin exercițiul de mai sus, am încercat să scot ceva bun din ceva ce la vremea respectivă mi s-a părut ceva rău. Nimănui nu-i place să dea bani pe amenzi, sunt sigur de asta. Însă am luat-o ca pe o lecție, din mai multe puncte de vedere și, cred eu, am scos ceva bun din asta.
 
 Și da, nu m-am potolit, am mai luat ulterior și alte amenzi de circulație, tot din același motiv :-) 
