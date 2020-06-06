@@ -13,8 +13,7 @@
 
   [headers.values]
   X-Frame-Options = "DENY"
-  Content-Security-Policy = "default-src 'self';"
-
+  
   cache-control = '''
 	max-age=3600,
 	public'''
